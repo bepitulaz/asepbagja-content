@@ -1,0 +1,5 @@
+Asep Bagja Priandana is a computer programmer and a musician from Indonesia. He lives in Tallinn, Estonia. During the day, he works as a software engineer in an Estonia tech startup. But, at night, he tinkers with synthesisers and a computer to generate noise. When composing his music, he often employes his programming skill as a musical instrument. He enjoys writing electronic ambient and generative music.
+
+As a programmer, Asep started his professional career in 2010. He worked for several companies in Indonesia and Singapore. Even he founded his own companies. Furthermore, he is a self-taught programmer because his educational background was accounting.
+
+Talking about his music passion, Asep started his journey as a keyboardist in a band in college circa 2007 in Indonesia. During 2007-2009, he actively became a session keyboardist in some bands in various genres. He played alternative rock, pop, electronic pop, and jazz.

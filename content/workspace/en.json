@@ -1,0 +1,167 @@
+{
+  "laptop": [
+    {
+      "name": "MacBook Pro 13\" 2020, M1, 8GB, 512GB SSD",
+      "description": "The office laptop for my full-time software engineering job.",
+      "image": "/workspace-img/m1.png",
+      "link": "https://support.apple.com/kb/SP824?locale=en_GB"
+    },
+    {
+      "name": "MacBook Pro 13\" 2022, M2, 8GB, 512GB SSD",
+      "description": "My personal laptop for personal project and content creation.",
+      "image": "/workspace-img/m2.png",
+      "link": "https://support.apple.com/kb/SP870?locale=en_GB"
+    }
+  ],
+  "coding": [
+    {
+      "name": "Apple Magic Keyboard",
+      "description": "The bluetooth keyboard",
+      "image": "/workspace-img/keyboard.png",
+      "link": "https://www.apple.com/shop/product/MK2A3LL/A/magic-keyboard-us-english"
+    },
+    {
+      "name": "Apple Magic Mouse",
+      "description": "The bluetooth mouse",
+      "image": "/workspace-img/mouse.png",
+      "link": "https://www.apple.com/shop/product/MK2E3AM/A/magic-mouse-white-multi-touch-surface"
+    },
+    {
+      "name": "Visual Studio Code",
+      "description": "Text editor for writing code",
+      "image": "/workspace-img/vscode.png",
+      "link": "https://code.visualstudio.com"
+    },
+    {
+      "name": "Github Copilot",
+      "description": "AI assistant for writing code",
+      "image": "/workspace-img/copilot.png",
+      "link": "https://code.visualstudio.com"
+    },
+    {
+      "name": "iTerm 2",
+      "description": "Terminal emulator for MacOS",
+      "image": "https://iterm2.com/img/logo2x.jpg",
+      "link": "https://iterm2.com"
+    }
+  ],
+  "music": [
+    {
+      "name": "Apple Logic Pro",
+      "description": "Digital Audio Workstation (DAW) for music production",
+      "image": "/workspace-img/logicpro.png",
+      "link": "https://www.apple.com/logic-pro/"
+    },
+    {
+      "name": "Apple MainStage",
+      "description": "Software for doing live music performance",
+      "image": "/workspace-img/mainstage.png",
+      "link": "https://www.apple.com/mainstage/"
+    },
+    {
+      "name": "Ableton Live Standard",
+      "description": "Digital Audio Workstation (DAW) for music production and performance",
+      "image": "/workspace-img/ableton-live.png",
+      "link": "https://www.ableton.com/"
+    },
+    {
+      "name": "Arturia MiniFuse 4",
+      "description": "Audio interface for connecting musical instruments to the computer",
+      "image": "/workspace-img/minifuse4.png",
+      "link": "https://www.arturia.com/products/audio/minifuse/minifuse4"
+    },
+    {
+      "name": "Arturia MiniLab 3",
+      "description": "25 keys MIDI controller for controlling Logic Pro and MainStage",
+      "image": "/workspace-img/minilab3.png",
+      "link": "https://www.arturia.com/products/hybrid-synths/minilab-3/overview"
+    },
+
+    {
+      "name": "Arturia MicroFreak Stellar",
+      "description": "Experimental hybrid synthesizer",
+      "image": "/workspace-img/microfreak.png",
+      "link": "https://www.arturia.com/products/hardware-synths/microfreak-stellar/overview"
+    },
+    {
+      "name": "Korg Kross 2 88 MB",
+      "description": "88 keys synthesizer workstation for playing piano and other instruments",
+      "image": "/workspace-img/kross2.png",
+      "link": "https://www.korg.com/us/products/synthesizers/kross2_88mb/"
+    },
+    {
+      "name": "Modular Synth Setup",
+      "description": "Nanas Sound custom build modular synthesizer with 84 HP case",
+      "image": "/workspace-img/modular-synth.jpg",
+      "link": "https://www.nanassound.com"
+    },
+    {
+      "name": "Zoom H1n",
+      "description": "Portable audio recorder for recording sound",
+      "image": "/workspace-img/h1n.png",
+      "link": "https://zoomcorp.com/en/de/handheld-recorders/handheld-recorders/h1n-handy-recorder/"
+    },
+    {
+      "name": "PreSonus Eris E3.5 BT",
+      "description": "Speaker for mixing and listening to music",
+      "image": "/workspace-img/e35bt.png",
+      "link": "https://www.presonus.com/en-US/monitors/media-reference-monitors/eris-series/2777500102.html"
+    },
+    {
+      "name": "SAMSON SR850",
+      "description": "Semi-open studio headphone for mixing and listening to music",
+      "image": "/workspace-img/sr850.png",
+      "link": "https://samsontech.com/products/headphones/sr-series/sr850/"
+    },
+    {
+      "name": "Audio Technica ATH-M50xBT2",
+      "description": "Wireless over-ear headphone for mixing and listening to music",
+      "image": "/workspace-img/ath-m50xbt2.png",
+      "link": "https://www.audio-technica.com/en-eu/ath-m50xbt2"
+    },
+    {
+      "name": "SAMSON C01",
+      "description": "Cardioid condenser microphone for vocal recording",
+      "image": "/workspace-img/c01.png",
+      "link": "https://samsontech.com/products/microphones/condenser-microphones/c01/"
+    },
+    {
+      "name": "RØDE M1",
+      "description": "Live performance dynamic microphone for vocal recording",
+      "image": "/workspace-img/rode-m1.png",
+      "link": "https://rode.com/en/microphones/live/m1"
+    },
+    {
+      "name": "Electric Kalimba",
+      "description": "A cheap unbrand electric kalimba for fun and experiment",
+      "image": "/workspace-img/kalimba.png",
+      "link": "N/A"
+    },
+    {
+      "name": "Yamaha MG10XU",
+      "description": "10 channel mixing console for mixing and recording music",
+      "image": "/workspace-img/yamaha-mg.jpg",
+      "link": "https://usa.yamaha.com/products/proaudio/mixers/mg_series_xu_model/index.html"
+    }
+  ],
+  "video": [
+    {
+      "name": "Apple iPhone 14 Pro",
+      "description": "The phone for recording videos in my YouTube channel",
+      "image": "/workspace-img/iphone.jpg",
+      "link": "https://www.apple.com/iphone-14-pro/"
+    },
+    {
+      "name": "Apple Final Cut Pro",
+      "description": "Video editing software for editing YouTube videos",
+      "image": "/workspace-img/fcp.jpg",
+      "link": "https://www.apple.com/final-cut-pro/"
+    },
+    {
+      "name": "OBS Studio",
+      "description": "Screen recording software for recording music videos",
+      "image": "/workspace-img/obs.jpg",
+      "link": "https://obsproject.com"
+    }
+  ]
+}
