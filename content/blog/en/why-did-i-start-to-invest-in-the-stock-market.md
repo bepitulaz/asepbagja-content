@@ -1,8 +1,6 @@
 ---
-title: Why Did I Start to Invest in The Stock Market?
+title: "Why Did I Start to Invest in The Stock Market?"
 date: 2016-05-13
-images:
-- "/blog-img/candlestick.jpg"
 categories:
 - Business
 summary: "I should find a way to invest my money."

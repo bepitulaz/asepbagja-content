@@ -1,22 +1,17 @@
 ---
 title: "Relocate Pet Cats from Bali to Estonia"
 date: 2022-05-22
-images:
-- "/blog-img/pet-carrier.jpg"
 categories:
 - Personal
 summary: "Our process story of moving our beloved cats from Denpasar, Bali, Indonesia to Tallinn."
-lang: "English"
 ---
 
 After five months of being separated, finally our beloved cats are reunited with me and my wife. The process to relocate them from Denpasar to Tallinn was quite long and cost quite a bit. Luckily the relocation costs of these cats are mostly covered by the company I work at, which believes that pets are part of the family.
 
 Some people thought that our cats are expensive breed cats, considering how much effort we put into relocating them. However, they are domestic short-haired cats that we adopted after frequently visiting our home when they were little. We’ve adopted them since we lived in South Tangerang in 2015 and moved with us to Denpasar in 2018. They’re already a part of the family. 
 
-<figure class="figure">
-<img src="/blog-img/pet-new-home.jpg" class="figure-img img-fluid" alt="Cats in our new home." />
-<figcaption class="figure-caption text-center">Domestic short-haired cats from Tangerang in their new home in Tallinn.</figcaption>
-</figure>
+![Cats in our new home.](../../../public/blog-img/pet-new-home.jpg)
+*Domestic short-haired cats from Tangerang in their new home in Tallinn.*
 
 Relocating pets abroad is surely not as easy as moving abroad. There are a lot of rules that we need to pay attention to, especially since we moved to a country that is a member of the European Union. The European Union is known as an area that has the most rules. What made us stressed was the busy moving schedule. We only had about 3 months since I got hired to the Estonian office. So, what did we prepare to relocate our fur boys?
 
@@ -32,20 +27,14 @@ To put it short, the procedures and required documents are:
 3. Rabies titer test. This takes 4-6 weeks because we need to send the pets’ blood test samples to laboratories that are recognized by the European Union, in this case the laboratory is in England.
 4. Health certificates from the veterinarians that are recognized by the Animal Husbandry Department.
 
-<figure class="figure">
-<img src="/blog-img/pet-health-certificate.jpg" class="figure-img img-fluid" alt="The health certificate and rabies test document." />
-<figcaption class="figure-caption text-center">The health certificate and rabies test document.</figcaption>
-</figure>
+![The health certificate and rabies test document.](../../../public/blog-img/pet-health-certificate.jpg)
+*The health certificate and rabies test document.*
 
-<figure class="figure">
-<img src="/blog-img/pet-vaccine-certificate.jpg" class="figure-img img-fluid" alt="Rabies vaccination and other supporting vaccination certificates." />
-<figcaption class="figure-caption text-center">Rabies vaccination and other supporting vaccination certificates.</figcaption>
-</figure>
+![Rabies vaccination and other supporting vaccination certificates.](../../../public/blog-img/pet-vaccine-certificate.jpg)
+*Rabies vaccination and other supporting vaccination certificates.*
 
-<figure class="figure">
-<img src="/blog-img/pet-barcode-microchip.jpg" class="figure-img img-fluid" alt="Microchip’s barcode that was injected into the cat’s skin." />
-<figcaption class="figure-caption text-center">Microchip’s barcode that was injected into the cat’s skin.</figcaption>
-</figure>
+![Microchip’s barcode that was injected into the cat’s skin.](../../../public/blog-img/pet-barcode-microchip.jpg)
+*Microchip’s barcode that was injected into the cat’s skin.*
 
 Since we were afraid of making a mistake, finally we decided to use a pet relocation service to take care of all the required documents. Besides, we felt that we were unable to take care of the pet-related business while we were taking care of our relocation documents at the same time. Our minds were too full to think about everything, especially since we only had 3 months time. The agent that helped us take care of all the documents at that time is [Animal Express](https://animalexpress.co.id).
 
@@ -69,9 +58,7 @@ After consideration, our choice fell to Turkish Airlines since it’s the only a
 
 Considering that my place is only 5 minutes away from the Tallinn airport, the choice of using Turkish Airlines is the best since the cats won’t need to get cold outside for too long.
 
-<figure class="figure">
-<img src="/blog-img/pet-carrier.jpg" class="figure-img img-fluid" alt="Cats were registered as Turkish Airlines’ cargo." />
-<figcaption class="figure-caption text-center">They were registered as Turkish Airlines’ cargo</figcaption>
-</figure>
+![Cats were registered as Turkish Airlines’ cargo.](../../../public/blog-img/pet-carrier.jpg)
+*They were registered as Turkish Airlines’ cargo*
 
 That’s our story of relocating our beloved cats from Denpasar to Tallinn. Now our fur family has reunited and become expatriate cats. 😸

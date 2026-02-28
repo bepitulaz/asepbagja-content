@@ -1,23 +1,15 @@
 ---
 title: "Focus On My Personal Website"
 date: 2022-11-15
-images:
-- "/blog-img/kohvik.jpg"
 categories:
 - Personal
 summary: "Focusing on my website as my main content house is better than writing on social media."
-lang: "English"
-featured: false
 ---
 
-Three years ago, I wrote about <a href="https://www.asepbagja.com/personal/going-back-to-personal-web" target="_blank" rel="noopener noreferrer">reprioritizing my blog instead of social media</a>. I did not mention any specific reasons in that article because I only wanted to revive this blog. Several years later, my decision was proven right. Why so? Now, I have reasons.
+Three years ago, I wrote about [reprioritizing my blog instead of social media](going-back-to-personal-web.md). I did not mention any specific reasons in that article because I only wanted to revive this blog. Several years later, my decision was proven right. Why so? Now, I have reasons.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kohvik.jpg" class="figure-img img-fluid" alt="A cafe in Kalamaja area, Tallinn." />
-<figcaption class="figure-caption text-center">A cafe in Kalamaja area, Tallinn.</figcaption>
-</figure>
-</div>
+![A cafe in Kalamaja area, Tallinn.](../../../public/blog-img/kohvik.jpg)
+*A cafe in Kalamaja area, Tallinn.*
 
 ### Content on blogs is easy to search and find.
 
@@ -29,12 +21,8 @@ Several years ago, I was consistently writing on Medium. My writing got many tra
 
 A few years later, there were some policy changes. Medium can no longer use a custom domain. *I checked, and now they enable it again but only for Medium paid members.* As a result, my writing disappeared from search engines. Even worse, my account got permanently suspended for violating their terms of service because I also promoted links to my business at that time through articles on Medium. Even though when Medium first appeared, this was not prohibited.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/my-medium-account.png" class="figure-img img-fluid" alt="A screenshot of suspended Medium account." />
-<figcaption class="figure-caption text-center">My Medium account is suspended.</figcaption>
-</figure>
-</div>
+![A screenshot of suspended Medium account.](../../../public/blog-img/my-medium-account.png)
+*My Medium account is suspended.*
 
 I feel upset. Things like that won't happen if we use our platform.
 
@@ -48,6 +36,6 @@ Fortunately, I only use Revue once a month to inform the published content on th
 
 ### Conclusion
 
-As a content creator, prioritizing our domain and website as the home of our content is the right decision. We have total control over our content. Indeed, some types of content are a bit difficult to self-hosted. Those are audio and video. It's complicated and expensive if we want to host them on our server. That's why my video content stays on <a href="https://www.youtube.com/channel/UCjGnuWk0n6BWx7rXshMysbw" target="_blank" rel="noopener noreferrer">YouTube</a>.
+As a content creator, prioritizing our domain and website as the home of our content is the right decision. We have total control over our content. Indeed, some types of content are a bit difficult to self-hosted. Those are audio and video. It's complicated and expensive if we want to host them on our server. That's why my video content stays on [YouTube](https://www.youtube.com/channel/UCjGnuWk0n6BWx7rXshMysbw).
 
-Finally, I invite you to subscribe to the <a href="https://writecodemakesound.asepbagja.com" target="_blank" rel="noopener noreferrer">"Write Code, Make Sound"</a> newsletter. We will explore the topic of creative coding for music and electronic music production technology.
+Finally, I invite you to subscribe to the ["Write Code, Make Sound"](https://writecodemakesound.asepbagja.com) newsletter. We will explore the topic of creative coding for music and electronic music production technology.

@@ -1,8 +1,6 @@
 ---
-title: Add Free SSL to Existing WordPress Site with Docker and Let's Encrypt
+title: "Add Free SSL to Existing WordPress Site with Docker and Let's Encrypt"
 date: 2016-06-24
-images:
-- "https://letsencrypt.org/images/le-logo-standard.png"
 categories:
 - Programming
 summary: "Google announced that they use HTTPS as a ranking signal on 2014, and it becomes more standard in their search result"

@@ -1,12 +1,9 @@
 ---
-title: "Experiment: Boost Node.js App Performance With Rust" 
+title: "Experiment: Boost Node.js App Performance With Rust"
 date: 2021-08-17
 categories:
 - Programming
-images:
-- "/blog-img/node-rust.jpg"
 summary: "My experiment to make the Node.js app fast with WebAssembly and Node native module that written in Rust."
-lang: "English"
 ---
 
 Recently, I'm planning to build a weekend project for personal purposes. It's an application to analyse stock market data for helping me in my investment journey. I plan to use Node.js as the backend. However, I'm curious about how Node.js perform when handling a large dataset. How fast can it do the operation?
@@ -72,5 +69,5 @@ It is surprised me. My expectation was the native module will perform faster tha
 
 According to this experiment, WebAssembly performs 2x faster for the total time than pure JavaScript when handling this scenario.
 
-_The featured image photo by <a href="https://unsplash.com/@chrisliverani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Liverani</a> on <a href="https://unsplash.com/s/photos/speed?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
+_The featured image photo by  on _
   

@@ -1,8 +1,6 @@
 ---
-title: Do Not Refuse The Corporate Culture
+title: "Do Not Refuse The Corporate Culture"
 date: 2015-10-14
-images:
-- "/blog-img/corporate.jpg"
 categories:
 - Personal
 summary: "A letter from my dad about how to make my company bigger."

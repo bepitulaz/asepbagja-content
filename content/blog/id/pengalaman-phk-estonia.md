@@ -1,24 +1,17 @@
 ---
-title: "Pengalaman Terkena PHK di Estonia" 
+title: "Pengalaman Terkena PHK di Estonia"
 date: 2025-10-04
 categories:
 - Pribadi
-images:
-- "/blog-img/asep-work-desk.jpg"
 summary: "Bagaimana sih rasanya terkena PHK di Estonia? Yang pasti harus paham opsi apa saja yang kamu punya."
-lang: "Bahasa Indonesia"
 ---
 
 Empat tahun lalu saya berbagi tips tentang [mencari pekerjaan sebagai software developer di luar negeri](/id/pribadi/mencari-kerja-di-luar-negeri). Tips yang berasal dari pengalaman pribadi hingga saya bisa pindah ke Estonia. Kali ini saya akan berbagi lagi pengalaman saya saat terkena PHK dari perusahaan yang merekrut dan mensponsori visa kerja saya di Estonia.
 
 Ketika artikel ini ditulis, posisi saya sudah lebih dari 6 bulan dari saat kena PHK. Saya terkena PHK di 28 Februari 2025 bersama beberapa anggota tim software engineer lain akibat perusahaan ingin melakukan efisiensi.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/asep-work-desk.jpg" class="figure-img img-fluid" alt="Meja kerja Asep" />
-<figcaption class="figure-caption text-center">Meja kerja saya</figcaption>
-</figure>
-</div>
+![Meja kerja Asep](../../../public/blog-img/asep-work-desk.jpg)
+*Meja kerja saya*
 
 ### Memahami jenis-jenis izin tinggal di Estonia
 
@@ -62,12 +55,8 @@ Itu hari yang cukup emosional. Emosional karena harus _saying goodbye_ dengan an
 
 Karena status saya terkena PHK, maka saya berhak mendapatkan bantuan dari pemerintah dalam bentuk uang bulanan dan dukungan untuk mencari pekerjaan baru. Saya mendaftarkan status pengangguran saya ke [Töötukassa](https://www.tootukassa.ee/et). Ini adalah badan milik pemerintah yang mengurusi masalah pengangguran.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/website-tootukassa.jpg" class="figure-img img-fluid" alt="Website tootukassa" />
-<figcaption class="figure-caption text-center">Badan milik pemerintah untuk mengurusi pengangguran</figcaption>
-</figure>
-</div>
+![Website tootukassa](../../../public/blog-img/website-tootukassa.jpg)
+*Badan milik pemerintah untuk mengurusi pengangguran*
 
 Sebagai pengangguran resmi, tunjangan yang saya dapat dari pemerintah adalah:
 - Di 3 bulan pertama, saya dapat 60% dari gaji rata-rata di tahun terakhir

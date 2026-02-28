@@ -1,13 +1,9 @@
 ---
 title: "Jangan Deploy Di Hari Jumat?"
 date: 2022-06-02
-images:
-- "/blog-img/inside-the-mill.jpg"
 categories:
 - Pemrograman
 summary: "Hal yang saya pelajari setelah satu tahun bekerja di perusahaan di Estonia."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Sebagai pemrogram yang bekerja di suatu perusahaan, pasti pernah mendengar atau bahkan akrab dengan kalimat ini, "Jangan *deploy* ke *production* di hari Jumat, apalagi Jumat sore." Alasannya akibat takut jika setelah melakukan *deployment* kode baru kemudian terjadi *error* maka itu berarti akan menjadi Jumat malam yang panjang. Lembur mencari apa yang salah dan harus diperbaiki.
@@ -42,11 +38,8 @@ Baru setelah fitur tersebut dinyatakan stabil, biasanya satu minggu setelah *dep
 
 Saat melakukan pengembangan fitur, akan selalu ada kolega yang menjadi *reviewer* PR, sekalipun kolega tersebut tidak *coding* di tugas yang sama. PR tidak akan bisa di-*merge* tanpa ada persetujuan. Hal ini membuat setiap pemrogram jadi mengetahui kolega lain sedang membangun apa. Jadi saat terjadi masalah di *production* dan pemrogram utamanya tidak ada karena cuti, sakit, atau meninggal, maka anggota tim lain bisa mengambil alih. Mungkin proses *debugging*-nya tidak akan secepat saat pemrogram utama yang melakukan, tapi setidaknya setiap orang bisa kapan saja mengambil alih tugas tersebut.
 
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/inside-the-mill.jpg" class="figure-img img-fluid" alt="Bagian dalam dari wind mill di Saaremaa." />
-<figcaption class="figure-caption text-center">Ilustrasi sebuah sistem yang saling berkaitan.</figcaption>
-</figure>
+![Bagian dalam dari wind mill di Saaremaa.](../../../public/blog-img/inside-the-mill.jpg)
+*Ilustrasi sebuah sistem yang saling berkaitan.*
 
 Dengan pola kerja yang seperti ini, maka tidak ada lagi rasa takut saat melakukan *deployment*. Bahkan saya beberapa kali melakukan *deployment*, di sore hari tepat sebelum besoknya saya mengambil cuti selama 2 minggu penuh. Kalau pun tiba-tiba ada masalah, pemrogram yang sedang liburan tetap tidak akan diganggu kecuali betul-betul anggota tim lain tidak ada petunjuk. Itu pun biasanya cuma meminta beberapa petunjuk lewat Slack apa yang harus dicek. Tidak akan ketika sedang liburan tiba-tiba disuruh buka laptop dan membereskan masalah. 
-
 

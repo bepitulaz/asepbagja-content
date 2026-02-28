@@ -1,10 +1,8 @@
 ---
-title: Integrating React Bootstrap and Reagent
+title: "Integrating React Bootstrap and Reagent"
 date: 2015-05-11
 categories:
 - Programming
-images:
-- "https://raw.githubusercontent.com/cljs/logo/master/cljs-white.png"
 summary: "Integrating React Bootstrap and Reagent was confusing me at the first."
 ---
 
@@ -59,7 +57,7 @@ Now, look at the index.html file. I use React and React Bootstrap which come fro
   </head>
 
   <body>
-    <div id="apps" class="container-fluid"></div>
+    
 
     <script type="text/javascript" src="react.min.js"></script>
     <script type="text/javascript" src="react-bootstrap.min.js"></script>

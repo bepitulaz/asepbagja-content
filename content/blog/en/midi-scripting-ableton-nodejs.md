@@ -1,18 +1,14 @@
 ---
-title: "MIDI scripting Ableton Live with Node.js" 
+title: "MIDI scripting Ableton Live with Node.js"
 date: 2022-01-16
 categories:
 - Programming
-images:
-- "/blog-img/ableton-human-migration.png"
 summary: "How to control and automate a DAW such as Ableton Live with Node.js."
-lang: "English"
-featured: false
 ---
 
-Recently, I released my debut single [A New Life](https://www.asepbagja.com/music/a-new-life-singles). It's a [generative music](https://en.wikipedia.org/wiki/Generative_music) album that I composed and programmed using JavaScript. In this article, I will share the process behind it. But, before going to the code, let me explain some music technology terms that I use a lot.
+Recently, I released my debut single [A New Life](a-new-life-singles.md). It's a [generative music](https://en.wikipedia.org/wiki/Generative_music) album that I composed and programmed using JavaScript. In this article, I will share the process behind it. But, before going to the code, let me explain some music technology terms that I use a lot.
 
-![A New Life](/music-img/a-new-life.jpg)
+![A New Life](../../../public/music-img/a-new-life.jpg)
 
 **MIDI**
 
@@ -20,7 +16,7 @@ Recently, I released my debut single [A New Life](https://www.asepbagja.com/musi
 
 In modern times, when a computer is a go-to tool for music production, MIDI data is transferred via USB cable and USB port. Most modern electronic musical instruments have a built-in USB port along with traditional MIDI in/out port. The picture below is the example from the back panel of my Korg Kross 2 workstation keyboard.
 
-![Korg Kross 2 back panel](/blog-img/korg-kross-back-panel.jpg)
+![Korg Kross 2 back panel](../../../public/blog-img/korg-kross-back-panel.jpg)
 
 **What is a MIDI controller?**
 
@@ -36,7 +32,7 @@ Digital Audio Workstation is an electronic device (hardware) or computer softwar
 
 The concept here is simple. I use Node.js scripts as a MIDI controller to control my hardware synthesiser through DAW. I used Ableton Live 11 Lite for A New Life single, but it is applicable for any DAW. Here is the connectivity schema.
 
-![DAW - Node.js schema](/blog-img/daw-connection.PNG)
+![DAW - Node.js schema](../../../public/blog-img/daw-connection.PNG)
 
 I can use Node.js scripts to directly control the synthesiser and let DAW record only the audio. But, I didn't go that route. The reason for that is I want DAW to save any MIDI data that come from the script. As you may already know, the Tallinn in December song is a piece of generative music that the note came from real-time weather forecast data. If something happens with my master record, it will not be possible to recreate that song again later with the same note.
 
@@ -51,7 +47,7 @@ const virtualOutput = new easymidi.Output("Node.js output", true);
 
 Only with three lines of code, the script can be visible as a MIDI device in DAW's MIDI track.
 
-![Node.js virtual instrument](/blog-img/daw-node-script.png)
+![Node.js virtual instrument](../../../public/blog-img/daw-node-script.png)
 
 **Sync Node.js with the sequencer in Ableton**
 

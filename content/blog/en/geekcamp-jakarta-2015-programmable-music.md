@@ -1,16 +1,12 @@
 ---
-title: Geekcamp Jakarta 2015. Programmable Music
+title: "Geekcamp Jakarta 2015. Programmable Music"
 date: 2015-11-04
-images:
-- "/blog-img/programmable-music.png"
 categories:
 - Programming
 summary: "This is my presentation about computer generated music using Clojure and Overtone."
 ---
 
 [Geekcamp Jakarta 2015](http://geekcamp.id/) is a technology and business conference organized by KMKLabs. This is my presentation about computer generated music using Clojure and Overtone. The talk is using Bahasa Indonesia, but here I try to give the English transcript.
-
-<iframe class="vidio-embed" src="https://www.vidio.com/embed/178403-geekcamp-lambda-jakarta" width="560" height="317" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
 
 **Transcript**
 

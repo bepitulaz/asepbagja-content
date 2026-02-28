@@ -1,20 +1,14 @@
 ---
-title: "Mencari Pekerjaan Sebagai Software Developer Di Luar Negeri" 
+title: "Mencari Pekerjaan Sebagai Software Developer Di Luar Negeri"
 date: 2021-12-20
 categories:
 - Pribadi
-images:
-- "/blog-img/snow-in-tallinn.jpg"
 summary: "Proses saya dalam mencari pekerjaan di benua Eropa."
-lang: "Bahasa Indonesia"
-aliases:
-- /personal/mencari-kerja-di-luar-negeri
-- /personal/mencari-kerja-di-luar-negeri/
 ---
 
-Tiga bulan berlalu semenjak saya pindah dari [Denpasar ke Tallinn, Estonia](https://www.asepbagja.com/id/pribadi/bye-bali-sampai-jumpa-lagi). Sekarang saatnya saya berbagi pengalaman tentang bagaimana caranya saya bisa mendapatkan pekerjaan sebagai *software developer* di Estonia dan di masa pandemi pula. Yang mana di masa sekarang bepergian ke luar negeri itu lebih sulit dari biasanya.
+Tiga bulan berlalu semenjak saya pindah dari [Denpasar ke Tallinn, Estonia](bye-bali-sampai-jumpa-lagi.md). Sekarang saatnya saya berbagi pengalaman tentang bagaimana caranya saya bisa mendapatkan pekerjaan sebagai *software developer* di Estonia dan di masa pandemi pula. Yang mana di masa sekarang bepergian ke luar negeri itu lebih sulit dari biasanya.
 
-![Asep in Tallinn](/blog-img/snow-in-tallinn.jpg)
+![Asep in Tallinn](../../../public/blog-img/snow-in-tallinn.jpg)
 
 Hal pertama kali yang saya lakukan adalah menentukan negara yang akan menjadi tujuan. Walaupun sebenarnya saya sangat ingin sekali ke Finlandia atau Estonia, saat mencari pekerjaan saya putuskan untuk memperbanyak jumlah negara target sekadar untuk memperbesar peluang. Oleh karena itu akhirnya saya memutuskan melamar ke beberapa negara yang saya rasa menarik tapi hanya yang tergabung di Uni Eropa. Yang ada di pikiran saya saat itu sederhana, "Pindah saja dulu keluar dari Indonesia ke salah satu negara di Uni Eropa. Kalau setelah pindah masih ada rasa ingin ke Finlandia atau Estonia, nanti cari jalan lagi."
 
@@ -36,11 +30,11 @@ Bagaimana bisa mendapatkan panggilan wawancara kalau mengirim lamaran saja tidak
 
 Satu tips dari saya jika mau memaksimalkan Linkedin, yaitu ikuti "Linkedin skill assesment test" yang berhubungan dengan skill yang kamu pasang di profilmu. Caranya dengan mengeklik tombol "Take skill quiz". Pastikan lulus dan mendapat "Linkedin Skill Assesment badge".
 
-![Linkedin Job](/blog-img/linkedin-skill-assesment.png)
+![Linkedin Job](../../../public/blog-img/linkedin-skill-assesment.png)
 
 Hal itu bisa membantu algoritma Linkedin Job saat mengeluarkan rekomendasi lowongan pekerjaan yang sesuai dengan keterampilanmu. Perhatikan gambar di Linkedin Job saya, di situ ada lowongan yang menyatakan kemampuan saya cocok untuk melamar pekerjaan tersebut, "You have preferred skill badge". Yang paling saya suka dari Linkedin Job adalah saat ada lowongan yang ada tombol bertuliskan "Easy Apply", ini tinggal klik saja dan biasanya tidak perlu menulis *cover letter* lagi. Mayoritas lamaran saya via tombol ini karena sudah terlalu malas untuk menulis *cover letter* yang dipersonalisasikan untuk puluhan lamaran.
 
-![Linkedin Job](/blog-img/linkedin-job.png)
+![Linkedin Job](../../../public/blog-img/linkedin-job.png)
 
 Selain menggunakan Linkedin, saya juga menggunakan situs [relocate.me](https://relocate.me/), dan *browsing* secara manual halaman karir dari situs-situs perusahaan di Uni Eropa yang saya tahu dan ingin saya coba lamar.
 
@@ -54,7 +48,7 @@ Tips dari saya saat melamar kerja ke perusahaan di Eropa, sebaiknya tidak usah m
 
 Yang cukup menarik lagi dari situs ini, kamu bisa menyimpan beberapa versi CV dan *cover letter*. Jadi saat kamu membutuhkan sedikit personalisasi saat melamar pekerjaan seperti misalnya menyebutkan nama perusahaan target di *cover letter* kamu sudah punya *template*.
 
-![Europass](/blog-img/europass.jpg)
+![Europass](../../../public/blog-img/europass.jpg)
 
 **Lamar sebanyak-banyaknya**
 
@@ -66,5 +60,5 @@ Semoga cara-cara di atas bisa membantu kamu yang ingin mencari pekerjaan di luar
 
 **_Pembaruan_**
 
-Saya menerbitkan artikel baru tentang [Pengalaman Terkena PHK di Estonia](https://www.asepbagja.com/id/pribadi/pengalaman-phk-estonia). Semoga bisa memberikan wawasan akan kemungkinan terkena PHK di luar negeri.
+Saya menerbitkan artikel baru tentang [Pengalaman Terkena PHK di Estonia](pengalaman-phk-estonia.md). Semoga bisa memberikan wawasan akan kemungkinan terkena PHK di luar negeri.
  

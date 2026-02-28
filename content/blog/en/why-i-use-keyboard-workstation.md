@@ -1,15 +1,12 @@
 ---
 title: "Why Do I Use A Keyboard Workstation In 2022?"
 date: 2022-04-15
-images:
-- "/blog-img/my-home-studio.jpg"
 categories:
 - Music
 summary: "Why bother to buy a keyboard workstation if a laptop with a DAW and MIDI controller can give the same capability?"
-featured: false
 ---
 
-> You can read <a href="https://www.asepbagja.com/music/use-korg-kross2-2023/" target="_blank">Korg Kross 2 Workstation Keyboard For Live Performance</a> if you want to know how I use my Korg Kross 2 and my review after 1,5 years of writing this article.
+> You can read [Korg Kross 2 Workstation Keyboard For Live Performance](use-korg-kross2-2023.md) if you want to know how I use my Korg Kross 2 and my review after 1,5 years of writing this article.
 
 If you are a musician and your main musical instrument is a keyboard, you may hear about a keyboard workstation, synthesizer workstation, or workstation. What is it exactly? Do I need one?
 
@@ -17,16 +14,12 @@ The workstation is special hardware in the shape of a (usually) keyboard. Typica
 
 To summarize, a workstation is a specialized computer for music production.
 
-Nowadays, the computing power of a laptop is more powerful than a workstation. It can run multiple software synthesizers and audio effect processors in a [Digital Audio Workstation (DAW)](https://www.asepbagja.com/programming/midi-scripting-ableton-nodejs), such as Logic Pro and Ableton Live. So, both a workstation and laptop can do the same thing.
+Nowadays, the computing power of a laptop is more powerful than a workstation. It can run multiple software synthesizers and audio effect processors in a [Digital Audio Workstation (DAW)](midi-scripting-ableton-nodejs.md), such as Logic Pro and Ableton Live. So, both a workstation and laptop can do the same thing.
 
 Then, why bother to buy a keyboard workstation if a laptop with a DAW and MIDI controller can give the same capability? The answer is that it depends on the musician's musical style and workflow.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/my-home-studio.jpg" class="figure-img img-fluid" alt="My home studio setup." />
-<figcaption class="figure-caption text-center">My home studio with a Korg Kross 2 keyboard workstation.</figcaption>
-</figure>
-</div>
+![My home studio setup.](../../../public/blog-img/my-home-studio.jpg)
+*My home studio with a Korg Kross 2 keyboard workstation.*
 
 For me, I use both of keyboard workstation and a DAW. These are some reasons why I'm using a keyboard workstation in 2022.
 
@@ -44,12 +37,8 @@ I love playing the piano. That's why I bought the 88 keys workstation. It has fu
 
 Nowadays, I don't perform live music on stage. But, there was a time [I did a live performance](https://www.youtube.com/watch?v=A9xBOk7nHeo) with a laptop in a band. Sometimes, I experienced my laptop freezing during the live performance. That was an inconvenient experience. As a software engineer, I'm sure a computer with hardware and software dedicated only to doing one job will be more reliable than a general-purpose computer.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/garageband.jpg" class="figure-img img-fluid" alt="GarageBand for mixing the song." />
-<figcaption class="figure-caption text-center">I use GarageBand for mixing the song.</figcaption>
-</figure>
-</div>
+![GarageBand for mixing the song.](../../../public/blog-img/garageband.jpg)
+*I use GarageBand for mixing the song.*
 
 In the end, I'm still using a DAW for recording and mixing the song. Currently, my workflow when producing music is something like these:
 - I do everything as much as possible on my workstation, such as finding the idea of the track, writing chord progression and melody, making the sound, and recording with its sequencer.

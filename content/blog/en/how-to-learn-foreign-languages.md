@@ -1,22 +1,15 @@
 ---
 title: "How To Learn Foreign Languages On Your Own"
 date: 2022-04-11
-images:
-- "/blog-img/tere-jalle.jpg"
 categories:
 - Personal
 summary: "How I learn foreign languages on my own without going to special-scheduled class."
-featured: false
 ---
 
 Aside from [composing music](http://asepbagja.com/music) I also like to learn new languages, whether they’re programming languages or foreign languages. Some of the foreign languages that I learned are English, Mandarin (China), Finnish (Finland), Malay (Malaysia), and Estonian. I forgot some of the languages since they’re rarely in use. The foreign languages that I still actively use and learn are English, Estonian, and Malay. English because it has become a daily language, Estonian because I live and plan to live long term in Estonia, also Malay to communicate with friends in the indie maker community since the majority of the people there are Malaysians.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/asep-bagja-priandana-Q3tz6XkBP_c-unsplash.jpg" class="figure-img img-fluid" alt="Taman Jepang di musim semi." />
-<figcaption class="figure-caption text-center">Japanese garden in Tallinn in the spring. Photo was taken from <a href="https://unsplash.com/@asepbagja">my Unsplash.</a></figcaption>
-</figure>
-</div>
+![Taman Jepang di musim semi.](../../../public/blog-img/asep-bagja-priandana-Q3tz6XkBP_c-unsplash.jpg)
+*Japanese garden in Tallinn in the spring. Photo was taken from my Unsplash.*
 
 Did you know that learning a new foreign language and becoming a bilingual, or even polyglot has many benefits? Some of them are:
 - Unlock new learning resources. In my case, whose career is in the Information Technology industry, English is an important language to learn because the majority of the most recent and in-depth resources are using the English language.
@@ -34,12 +27,8 @@ I still remember the time when I learned English in my teenage years, textbooks 
 
 I really like to learn foreign languages from textbooks because of their structured learning materials - designed for beginner to advanced levels. I’d recommend you to buy a textbook if the foreign language that you learn has textbooks available in the bookstores. Personally, I used textbooks when I was learning English, Mandarin, and Estonian. It was easier to find textbooks for English and Mandarin in Indonesia. However, I was only able to find Estonian textbooks when I moved here to Estonia since no one sells them in Indonesia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/tere-jalle.jpg" class="figure-img img-fluid" alt="Buku teks" />
-<figcaption class="figure-caption text-center">Estonian language textbook level A1 to A2 and Introduction to B1.</a></figcaption>
-</figure>
-</div>
+![Buku teks](../../../public/blog-img/tere-jalle.jpg)
+*Estonian language textbook level A1 to A2 and Introduction to B1.*
 
 #### Smartphone applications
 

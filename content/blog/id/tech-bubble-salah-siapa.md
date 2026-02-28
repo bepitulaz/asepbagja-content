@@ -1,13 +1,9 @@
 ---
 title: "Tech Bubble, Salah Siapa?"
 date: 2022-05-29
-images:
-- "/blog-img/bird-seagull.jpg"
 categories:
 - Bisnis
 summary: "Opini pribadi tentang kehebohan dunia startup teknologi akhir-akhir ini."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Satu minggu belakangan ini dunia startup teknologi sedang dikejutkan dengan banyaknya pemutusan hubungan kerja (PHK) secara masal. Tidak hanya di Indonesia, tetapi juga di beberapa perusahaan teknologi di Eropa dan juga Amerika Serikat. Alasan yang sering dibahas adalah efisiensi, karena pendapatan yang diterima perusahaan dari pelanggan mereka tidak sebanding dengan pengeluaran seperti gaji karyawan dan biaya akuisisi pelanggan.
@@ -15,14 +11,12 @@ Satu minggu belakangan ini dunia startup teknologi sedang dikejutkan dengan bany
 > Lebih besar pasak daripada tiang. 
 > <cite>&mdash; peribahasa Indonesia</cite>
 
-<figure class="figure">
-<img src="/blog-img/bird-seagull.jpg" class="figure-img img-fluid" alt="Burung camar laut sedang mengamati suasana sekitarnya." />
-<figcaption class="figure-caption text-center">Burung camar laut yang sedang mengamati suasana sekitarnya.</figcaption>
-</figure>
+![Burung camar laut sedang mengamati suasana sekitarnya.](../../../public/blog-img/bird-seagull.jpg)
+*Burung camar laut yang sedang mengamati suasana sekitarnya.*
 
 Dari sekian banyak berita dan opini, ada satu yang menggelitik saya di Twitter. Yaitu soal konsumen, media, dan talenta teknologi (karyawan) memiliki andil dalam menciptakan situasi *tech bubble* saat ini. Saya akan embed cuitannya yang ada gambarnya, karena sepertinya cuitan yang ini adalah klarifikasi dari cuitan sebelumnya.
 
-<blockquote class="twitter-tweet"><p lang="in" dir="ltr">Begini, netijen yg budiman, biar jelas saya gambarin feedback loopnya. VC kasih duit ke startup, startup kasih promo ke konsumen, konsumen kasih growth ke company, company ngasih janji, VC kasih duit lagi. Konsumen ada &quot;role&quot; di sini. Apa salah? Ya nggak ada jg yang bilang gitu.. <a href="https://t.co/dJ3SWW2YlM">pic.twitter.com/dJ3SWW2YlM</a></p>&mdash; Gibran Huzaifah (@gibranhuzaifah) <a href="https://twitter.com/gibranhuzaifah/status/1530192471837544449?ref_src=twsrc%5Etfw">May 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="in" dir="ltr">Begini, netijen yg budiman, biar jelas saya gambarin feedback loopnya. VC kasih duit ke startup, startup kasih promo ke konsumen, konsumen kasih growth ke company, company ngasih janji, VC kasih duit lagi. Konsumen ada &quot;role&quot; di sini. Apa salah? Ya nggak ada jg yang bilang gitu.. [pic.twitter.com/dJ3SWW2YlM](https://t.co/dJ3SWW2YlM)</p>&mdash; Gibran Huzaifah (@gibranhuzaifah) [May 27, 2022](https://twitter.com/gibranhuzaifah/status/1530192471837544449?ref_src=twsrc%5Etfw)</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Gambar penjelasannya menurut saya memang benar. Memang seperti itu lah kenyataannya. Semua punya andil, tapi siapa yang memiliki andil paling besar dalam menciptakan situasi ini? Ya tentu saja pengusahanya. Pengusaha adalah pihak pertama yang punya pilihan untuk:
 1. Mengembangkan usahanya secara *sustainable* (berkelanjutan) yang mana biasanya perkembangannya akan lebih lambat.

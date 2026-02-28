@@ -1,17 +1,14 @@
 ---
 title: "Finding A Job As A Software Developer Abroad"
 date: 2022-04-19
-images:
-- "/blog-img/snow-in-tallinn.jpg"
 categories:
 - Personal
 summary: "My job-seeking process in Europe"
-featured: false
 ---
 
 It has been six months since I moved from Denpasar to Tallinn, Estonia. It’s time for me to share my experience on how I landed the job as a software developer in Estonia during the pandemic - the time when it’s even more difficult than usual to travel abroad.
 
-![Asep in Tallinn](/blog-img/snow-in-tallinn.jpg)
+![Asep in Tallinn](../../../public/blog-img/snow-in-tallinn.jpg)
 
 The very first thing that I did was to find the country where I want to go. Even though I really wanted to go to Finland or Estonia, during the job search I decided to expand the number of the countries I aim for to increase my chances. Because of that, I decided to seek jobs in several countries in the European Union that I find interesting. I simply thought, "I just need to move from Indonesia to one of the countries in the European Union. If after moving I still want to move to Finland or Estonia, I’ll look for another way."
 
@@ -33,11 +30,11 @@ How would you get interview calls if you’ve never sent any job applications? �
 
 My tip to maximize your LinkedIn use is to take the "LinkedIn skill assessment test" that relates to the skills you mention in your profile. You can do it by clicking the "Take skill quiz" button. Make sure you pass the test and obtain the "LinkedIn Skill Assessment badge."
 
-![Linkedin Job](/blog-img/linkedin-skill-assesment.png)
+![Linkedin Job](../../../public/blog-img/linkedin-skill-assesment.png)
 
 Doing so will help the LinkedIn Jobs algorithm to show job application recommendations that fit your skills. Have a look at my LinkedIn Jobs picture, there is a job recommendation that shows that my skills matched the job requirements with the "You have a preferred skill badge."
 
-![Linkedin Job](/blog-img/linkedin-job.png)
+![Linkedin Job](../../../public/blog-img/linkedin-job.png)
  
 What I really liked about LinkedIn Jobs is when there are job applications that feature an "Easy Apply" button. This allowed me to apply to jobs with a single click without needing to write new cover letters. The majority of my job applications were submitted via Easy Apply because I didn't feel like writing personalized cover letters for dozens of applications.
 
@@ -53,7 +50,7 @@ When applying for jobs at European companies, I recommend not including your pic
 
 One quite interesting thing about this site is that you can save several versions of CVs and cover letters. This allows you to have a template when you need small personalization when applying for jobs, such as mentioning the name of the company you aim for, for example.
 
-![Europass](/blog-img/europass.jpg)
+![Europass](../../../public/blog-img/europass.jpg)
 
 ### Apply as much as you can
 

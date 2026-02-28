@@ -1,22 +1,15 @@
 ---
 title: "Single: People Just Want Peace"
 date: 2022-03-21
-images:
-- "/music-img/people-just-want-peace.jpg"
 categories:
 - Music
 summary: "I composed the music to bring the message of peace to all over the world."
-featured: false
 ---
 
 I walked around Tallinn's old town area a few weeks ago and stumbled upon this graffiti. I guess someone created it after the protest event against Russia's aggression in Ukraine in February 2022. The war that's still happening now.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/asep-bagja-priandana-1CC23Ak7z8E-unsplash.jpg" class="figure-img img-fluid" alt="People Just Want Peace graffiti" />
-<figcaption class="figure-caption text-center">The graffiti in Tallinn's old town.</figcaption>
-</figure>
-</div>
+![People Just Want Peace graffiti](../../../public/blog-img/asep-bagja-priandana-1CC23Ak7z8E-unsplash.jpg)
+*The graffiti in Tallinn's old town.*
 
 Inspired by that graffiti and the big protest in Tallinn, I started composing this music. Peaceful music for everyone.
 

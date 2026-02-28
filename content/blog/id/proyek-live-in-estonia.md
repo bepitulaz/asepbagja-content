@@ -1,25 +1,17 @@
 ---
 title: "Di Balik Proyek Live In Estonia"
 date: 2022-08-13
-images:
-- "/blog-img/kesklinna-jaanituli.jpg"
 categories:
 - Pribadi
 summary: "Apa alasan saya membuat website Live in Estonia? Kamu bisa membacanya di sini"
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Di luar memproduksi musik, fotografi terutama landscape dan street photography adalah hobi saya yang lain. Saya membawa kamera *mirrorless* Sony A6000 setiap hari kemanapun saya pergi. Hobi ini makin saya tekuni sejak saya pindah ke Estonia di bulan Oktober 2021. Tinggal di negara baru dengan pemandangan alam yang indah membuat saya makin bersemangat untuk mengambil foto. Tapi kemudian pertanyaannya, apa yang akan saya lakukan dengan foto-foto tersebut?
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kesklinna-jaanituli.jpg" class="figure-img img-fluid" alt="People gathered around the bonfire." />
-<figcaption class="figure-caption text-center">The Midsummer's Eve celebration in Tallinn.</figcaption>
-</figure>
-</div>
+![People gathered around the bonfire.](../../../public/blog-img/kesklinna-jaanituli.jpg)
+*The Midsummer's Eve celebration in Tallinn.*
 
-Mengunggah foto-foto tersebut ke internet tentu saja adalah jawabannya. Solusi paling mudahnya adalah mengunggah ke Instagram. Tentu saja saya sudah melakukannya. Namun, saya bukan tipe orang yang mempercayai platform media sosial pihak ketiga untuk mengunggah semua hasil karya saya. Saya mulai memprioritaskan domain saya sebagai [rumah bagi konten saya di 2019](https://www.asepbagja.com/personal/going-back-to-personal-web) daripada posting di platform sosial media. Terlebih lagi, saya menyukai konsep [IndieWeb](https://indieweb.org/) di mana “Kontenmu adalah milikmu, dan kamu memiliki kendali atasnya.”
+Mengunggah foto-foto tersebut ke internet tentu saja adalah jawabannya. Solusi paling mudahnya adalah mengunggah ke Instagram. Tentu saja saya sudah melakukannya. Namun, saya bukan tipe orang yang mempercayai platform media sosial pihak ketiga untuk mengunggah semua hasil karya saya. Saya mulai memprioritaskan domain saya sebagai [rumah bagi konten saya di 2019](../en/going-back-to-personal-web.md) daripada posting di platform sosial media. Terlebih lagi, saya menyukai konsep [IndieWeb](https://indieweb.org/) di mana “Kontenmu adalah milikmu, dan kamu memiliki kendali atasnya.”
 
 Karena alasan tersebut, saya iseng-iseng mencari nama domain .(dot)com terkait dengan Estonia di [Namecheap](https://namecheap.pxf.io/x9Pgmx) beberapa minggu lalu. Saya membutuhkan sebuah domain sebagai tempat bagi seluruh foto yang saya ambil hampir tiap minggu. Beruntung, saya menemukan nama domain bagus yang masih tersedia yaitu [liveinestonia.com](https://www.liveinestonia.com/).
 
