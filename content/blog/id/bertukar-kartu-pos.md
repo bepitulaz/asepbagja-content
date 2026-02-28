@@ -1,13 +1,9 @@
 ---
 title: "Bertukar Pesan Melalui Kartu Pos"
 date: 2022-08-28
-images:
-- "/blog-img/pile-of-postcard.jpg"
 categories:
 - Pribadi
 summary: "Pada bulan Juli 2022, saya mengobrol dengan beberapa teman di sebuah grup chat tentang nostalgia menunggu tukang pos datang membawa surat dari para sahabat."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Orang-orang yang terlahir di tahun 1981-1996 atau biasa disebut generasi milenial (Generasi Y) adalah generasi transisi antara kehidupan yang serba analog dan digitalisasi berkat adanya internet dan telepon selular. Apalagi jika kamu milenial yang terlahir sebelum tahun 1990, besar kemungkinan masa kecil dan remajamu masih sempat mengalami banyak hal analog untuk berkomunikasi seperti telepon kartu, telepon koin, berkirim surat, atau malah sempat punya sahabat pena.
@@ -16,12 +12,8 @@ Sewaktu masih kecil, saya selalu berpindah-pindah kota setiap 3-4 tahun sekali m
 
 Tentu saja proses komunikasi lewat surat ini sangat lama. Bayangkan menunggu balasan surat dari Jawa Timur ke Papua (waktu itu saya tinggal di Jayapura), bisa menghabiskan waktu beberapa minggu. Pak Pos adalah sosok yang ditunggu-tunggu.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/pile-of-postcard.jpg" class="figure-img img-fluid" alt="Tumpukan kartu pos." />
-<figcaption class="figure-caption text-center">Kartu pos yang saya cetak dari hasil foto-foto saya.</figcaption>
-</figure>
-</div>
+![Tumpukan kartu pos.](../../../public/blog-img/pile-of-postcard.jpg)
+*Kartu pos yang saya cetak dari hasil foto-foto saya.*
 
 Bulan Juli 2022, saya mengobrol dengan beberapa teman yang seumuran di sebuah grup *chat* soal serunya zaman dulu berkirim kartu lebaran dan kartu pos. Grup *chat* ini juga ada karena kita sama-sama pernah tinggal di Bali dan Jakarta, dan sekarang beberapa orang sudah berpindah tempat lagi. Ada teman di Jakarta yang sudah pindah ke Amerika Serikat, ada yang dari Bali sudah pindah ke Portugal, termasuk saya yang sudah pindah ke Estonia dari Bali, dan ada juga yang pindah dari Bali ke Jakarta.
 
@@ -47,12 +39,8 @@ Saya merasa hasil cetak tersebut kurang layak untuk dikirimkan ke teman-teman. A
 
 Ketika saya masih menunggu kartu pos saya selesai dicetak, satu kartu pos dari teman di Chicago, Amerika Serikat pun tiba. Memang rasanya sangat berbeda ketika melihat tulisan tangan dari teman yang ada di kartu pos tersebut dibanding melihat ketikan di layar komputer atau HP. Apalagi melihat kartu pos tersebut sudah agak lusuh dan terlipat-lipat di ujungnya akibat proses pengiriman yang sangat panjang. Saya jadi ingin benar-benar menyimpannya dengan baik.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-chicago.jpg" class="figure-img img-fluid" alt="Kartu pos dari Chicago." />
-<figcaption class="figure-caption text-center">Kartu pos dari Chicago, Amerika Serikat.</figcaption>
-</figure>
-</div>
+![Kartu pos dari Chicago.](../../../public/blog-img/kartu-pos-chicago.jpg)
+*Kartu pos dari Chicago, Amerika Serikat.*
 
 Pesanan kartu pos saya akhirnya tiba.
 
@@ -60,21 +48,13 @@ Kesulitan berikutnya adalah, "Saya harus menulis apa di kartu pos ini?" 😅 Rum
 
 Setelah pesan selesai ditulis, saya pun segera ke kantor pos untuk mengirimkan kartu pos tersebut. Saya jadi tahu ternyata ongkos kirim kartu pos internasional ternyata tidak mahal. Biaya perangkonya hanya 1,9€ saja untuk mengirim ke Amerika Serikat, Portugal, dan Indonesia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-eesti.jpg" class="figure-img img-fluid" alt="Kartu pos dari Estonia." />
-<figcaption class="figure-caption text-center">Kartu pos yang saya kirimkan dari Estonia.</figcaption>
-</figure>
-</div>
+![Kartu pos dari Estonia.](../../../public/blog-img/kartu-pos-eesti.jpg)
+*Kartu pos yang saya kirimkan dari Estonia.*
 
 Sepulang dari kantor pos, saya iseng mengecek kotak pos saya, "Wah, ternyata ada kartu pos dari teman yang tinggal di Braga, Portugal." Sama seperti kartu pos sebelumnya yang saya terima, kartu pos yang ini pun sudah lecek. Jadi terasa makin indah di mata saya. 😆
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-braga.jpg" class="figure-img img-fluid" alt="Kartu pos dari Braga, Portugal." />
-<figcaption class="figure-caption text-center">Kartu pos dari Braga, Portugal.</figcaption>
-</figure>
-</div>
+![Kartu pos dari Braga, Portugal.](../../../public/blog-img/kartu-pos-braga.jpg)
+*Kartu pos dari Braga, Portugal.*
 
 Gara-gara kegiatan saling bertukar kartu pos ini saya jadi belajar beberapa hal:
 1. Foto-foto yang saya potret ternyata lebih indah dan hidup saat dicetak dibandingkan jika dinikmati di Instagram.

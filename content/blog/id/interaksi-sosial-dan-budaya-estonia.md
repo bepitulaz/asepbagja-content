@@ -1,13 +1,9 @@
 ---
 title: "Interaksi Sosial dan Budaya di Estonia"
 date: 2022-02-12
-images:
-- "/blog-img/personal-space.jpg"
 categories:
 - Estonia
 summary: "Bagaimana cara berinteraksi dengan orang-orang di Estonia agar bisa berintegrasi dengan baik."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Interaksi sosial adalah hubungan sosial antara individu, individu dengan kelompok, dan kelompok dengan kelompok. Kita sebagai manusia akan selalu melakukan interaksi sosial di manapun kita berada, karena manusia adalah makhluk sosial. Jarang sekali seseorang bisa hidup tanpa bantuan orang lain sama sekali.
@@ -18,10 +14,8 @@ Untuk saya yang bermigrasi dari negara yang beriklim tropis, hangat, dan berpend
 
 Berikut ini beberapa hal yang saya pelajari sejauh ini berdasarkan pengamatan dan pengalaman pribadi baik di tempat umum maupun di lingkungan kerja. Siapa tahu teman-teman ada yang berkesempatan untuk mengunjungi atau pindah ke Estonia, jadi tidak akan terlalu kaget.
 
-<figure class="figure">
-<img src="/blog-img/walk-from-behind.jpg" class="figure-img img-fluid" alt="Estonia yang sepi dan dingin" />
-<figcaption class="figure-caption text-center">Estonia yang sepi dan dingin</figcaption>
-</figure>
+![Estonia yang sepi dan dingin](../../../public/blog-img/walk-from-behind.jpg)
+*Estonia yang sepi dan dingin*
 
 ### Sangat pelit senyum
 
@@ -49,17 +43,13 @@ Dari kejadian tersebut, saya menarik kesimpulan untuk berkomunikasi dengan layan
 
 ### Menghormati ruang personal orang lain
 
-Saat pandemi Covid-19, kita selalu disuruh untuk menjaga jarak setidaknya 1,5 meter. Saya teringat sebuah omongan dari orang Estonia di grup e-Residency, "I don't think we need that. We always stand more than 2 metres in our life. (Saya rasa kami tidak perlu itu. Kami selalu berdiri dengan jarak lebih dari 2 meter di kehidupan kami.)" Saya baru bisa paham setelah akhirnya [pindah ke Tallinn](https://www.asepbagja.com/id/pribadi/mencari-kerja-di-luar-negeri). Saat menunggu bus atau tram mereka akan berdiri dengan jarak yang sangat renggang agar tidak disapa oleh orang lain. Biasanya yang berdiri berdekatan hanya sesama yang sudah saling kenal saja.
+Saat pandemi Covid-19, kita selalu disuruh untuk menjaga jarak setidaknya 1,5 meter. Saya teringat sebuah omongan dari orang Estonia di grup e-Residency, "I don't think we need that. We always stand more than 2 metres in our life. (Saya rasa kami tidak perlu itu. Kami selalu berdiri dengan jarak lebih dari 2 meter di kehidupan kami.)" Saya baru bisa paham setelah akhirnya [pindah ke Tallinn](mencari-kerja-di-luar-negeri.md). Saat menunggu bus atau tram mereka akan berdiri dengan jarak yang sangat renggang agar tidak disapa oleh orang lain. Biasanya yang berdiri berdekatan hanya sesama yang sudah saling kenal saja.
 
-<figure class="figure">
-<img src="/blog-img/personal-space.jpg" class="figure-img img-fluid" alt="Orang-orang menunggu bus" />
-<figcaption class="figure-caption text-center">Suasana di halte bus berdiri berjauhan</figcaption>
-</figure>
+![Orang-orang menunggu bus](../../../public/blog-img/personal-space.jpg)
+*Suasana di halte bus berdiri berjauhan*
 
-<figure class="figure">
-<img src="/blog-img/trammipeatus.gif" class="figure-img img-fluid" alt="Orang-orang menunggu tram" />
-<figcaption class="figure-caption text-center">Terlihat orang yang tidak saling kenal berdiri berjauhan</figcaption>
-</figure>
+![Orang-orang menunggu tram](../../../public/blog-img/trammipeatus.gif)
+*Terlihat orang yang tidak saling kenal berdiri berjauhan*
 
 Sesama teman pun terkadang tidak saling menyapa di tempat umum jika salah satunya terlihat sedang sibuk. Pernah satu ketika teman kantor saya berkata, "I saw you yesterday in Prisma (Saya melihat kamu kemarin di Prisma)." Lalu saya jawab, "Why didn't you say hi to me? (Mengapa kamu tidak menyapa saya?)" Jawaban dia, "You looked busy with your stuff (Kamu terlihat sibuk dengan urusanmu). I didn't want to bother you (Saya tidak mau menggangu kamu)." Jadi menurut dia kalau dia menyapa saya, dia akan mengganggu saya karena mau tidak mau akan terjadi obrolan.
 
@@ -69,7 +59,7 @@ Bertolak belakang dengan soal menghormati ruang personal orang lain, orang Eston
 
 Pelukan ini biasanya dilakukan saat pertama kali bertemu, saat berpisah setelah terlibat obrolan yang panjang, atau saat ada kejadian yang terasa canggung. Istri saya pernah mengalami kejadian dia diajak mengobrol oleh ibu-ibu dengan bahasa Estonia di supermarket. Istri saya tidak paham bahasa Estonia jadi asal menanggapi dengan, "ya ya" saja. Lalu setelah obrolan agak panjang, istri saya memberi tahu kalau dia hanya bisa berbahasa Inggris. Akhirnya ibu tersebut tertawa dan memeluk istri saya.
 
-<hr class="border-2 border-top" />
+---
 
 Orang-orang Estonia memang terkesan dingin dan kaku seperti es batu. Tetapi jangan salah, mereka sebetulnya dingin di luar tapi hangat di dalam. Mereka tidak segan menawarkan bantuan jika mereka bisa membantu. Saya ada contoh kejadian terbaru soal ini. Istri dan saya sedang berbelanja di sebuah toko yang sangat besar, saat itu kami sedang di kasir. Kasir bertanya kepada saya dalam bahasa Estonia, "Kas sul on kliendikaart? (Apa saya punya kartu pelanggan?)". Saya jawab, "Ei ole (tidak ada)", karena memang itu kali pertama berbelanja di toko tersebut. Lalu saya lanjut dengan bahasa Inggris karena kosa kata bahasa Estonia saya masih terbatas, "What's the benefit? (Apa keuntungannya?)". Akhirnya kasir tersebut menjelaskan kalau tanpa kartu pelanggan saya harus membayar harga penuh. Dalam pikiran saya, ya sudah bayar harga normal juga tidak masalah. Tiba-tiba ada orang Estonia di belakang saya berkata, "Use my card and get the discount (Pakai kartu saya biar kamu dapat diskon). Palun (Silakan).", dan tanpa kami minta dia langsung tap kartunya ke mesin kasir.
 

@@ -1,8 +1,6 @@
 ---
-title: Full Stack Clojure Project
+title: "Full Stack Clojure Project"
 date: 2015-05-26
-images:
-- "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/500px-Clojure_logo.svg.png"
 categories:
 - Programming
 summary: "Why I'm deeply in love with Clojure? That's because I can do full stack development only in one language."

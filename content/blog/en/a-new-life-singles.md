@@ -1,14 +1,10 @@
 ---
 title: "Single: A New Life"
 date: 2022-01-10
-images:
-- "/music-img/a-new-life.jpg"
 categories:
 - Music
 summary: "My first music single is out. Listen it on your favourite streaming service."
 ---
-
-<iframe src="https://open.spotify.com/embed/album/1f5KJowOd4hOtrEN7Tp8ET?utm_source=generator" width="100%" height="160" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 Inspired by the life-changing experience of moving abroad, I wrote and released my first electronic ambient music single: A New Life. I can say that A New Life is a programmable and generative music single because the music is programmed by using JavaScript, a computer programming language. All melodies that you hear are coming from real-life data. A New Life consists of 2 tracks.
 

@@ -1,23 +1,15 @@
 ---
 title: "Fokus Membuat Konten Di Website Pribadi"
 date: 2022-11-13
-images:
-- "/blog-img/kohvik.jpg"
 categories:
 - Pribadi
 summary: "Mengutamakan domain sendiri sebagai rumah konten utama jauh lebih baik dibanding fokus di media sosial."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
-Tiga tahun yang lalu saya pernah menulis tentang [memprioritaskan kembali blog pribadi saya ini dibanding mengutamakan media sosial](https://www.asepbagja.com/personal/going-back-to-personal-web). Di artikel tersebut saya tidak menyebutkan alasan spesifik, karena saat itu memang saya hanya ingin menghidupkan kembali blog ini. Terbukti beberapa tahun kemudian keputusan saya tersebut menjadi keputusan yang tepat. Mengapa begitu? Kini saya punya alasannya.
+Tiga tahun yang lalu saya pernah menulis tentang [memprioritaskan kembali blog pribadi saya ini dibanding mengutamakan media sosial](../en/going-back-to-personal-web.md). Di artikel tersebut saya tidak menyebutkan alasan spesifik, karena saat itu memang saya hanya ingin menghidupkan kembali blog ini. Terbukti beberapa tahun kemudian keputusan saya tersebut menjadi keputusan yang tepat. Mengapa begitu? Kini saya punya alasannya.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kohvik.jpg" class="figure-img img-fluid" alt="Pemandangan sebuah kafe di kawasan Kalamaja, Tallinn." />
-<figcaption class="figure-caption text-center">Pemandangan sebuah kafe di kawasan Kalamaja, Tallinn.</figcaption>
-</figure>
-</div>
+![Pemandangan sebuah kafe di kawasan Kalamaja, Tallinn.](../../../public/blog-img/kohvik.jpg)
+*Pemandangan sebuah kafe di kawasan Kalamaja, Tallinn.*
 
 ### Konten di blog mudah dicari dan ditemukan
 

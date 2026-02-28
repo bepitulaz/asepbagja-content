@@ -1,10 +1,8 @@
 ---
-title: Introduction to Functional Programming in JavaScript (Part 1)
+title: "Introduction to Functional Programming in JavaScript (Part 1)"
 date: 2016-07-03
 categories:
 - Programming
-images:
-- "/blog-img/js-img.jpg"
 summary: "Functional programming paradigm concentrates on computing results rather than performing actions."
 ---
 
@@ -134,4 +132,4 @@ That is the explanation of pure function. What you give is what you get. It does
 
 In this first part, we had changed our way of thinking to express our idea to achieve the result. We have learned about immutable data and pure function to avoid side effect and made our code more concise. Those are still basic things before we dive deeper to learn about functional programming in JavaScript (or in another language). Hope you enjoy it and see you in the next part.
 
-P.S. [The second part](https://www.asepbagja.com/programming/introduction-to-functional-programming-in-javascript-part-2/) of this article has been published.
+P.S. [The second part](introduction-to-functional-programming-in-javascript-part-2.md) of this article has been published.

@@ -1,25 +1,14 @@
 ---
 title: "Apa Itu Estonia e-Residency?"
 date: 2019-07-03
-images:
-- "/blog-img/running_remote.jpg"
 categories:
 - Bisnis
-aliases:
-- /artikel/apa-itu-estonia-e-residency
-- /artikel/apa-itu-estonia-e-residency/
-- /posts/apa-itu-estonia-e-residency
-- /posts/apa-itu-estonia-e-residency/
-- /id/artikel/apa-itu-estonia-e-residency
-- /id/artikel/apa-itu-estonia-e-residency/
-- /business/apa-itu-estonia-e-residency
-- /business/apa-itu-estonia-e-residency/
 summary: "Dengan mengikuti program e-Residency, kamu akan mendapatkan kartu eID Estonia."
 ---
 
-Saya sering sekali mendapat pertanyaan dari teman atau kenalan setiap kali mereka melihat website [Tanibox](https://tanibox.com), "Loh, Tanibox itu alamatnya di Estonia? Kok, bisa? Kenapa?" Untuk menjawab pertanyaan ini, saya harus memulai dengan menjelaskan program [Estonia e-Residency](http://e-resident.gov.ee/). Sedangkan untuk menjawab pertanyaan, "kenapa kok Estonia?", kamu bisa memulai kisah awalnya di tulisan saya pada tahun 2017 [di sini](https://www.asepbagja.com/id/artikel/pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia).
+Saya sering sekali mendapat pertanyaan dari teman atau kenalan setiap kali mereka melihat website [Tanibox](https://tanibox.com), "Loh, Tanibox itu alamatnya di Estonia? Kok, bisa? Kenapa?" Untuk menjawab pertanyaan ini, saya harus memulai dengan menjelaskan program [Estonia e-Residency](http://e-resident.gov.ee/). Sedangkan untuk menjawab pertanyaan, "kenapa kok Estonia?", kamu bisa memulai kisah awalnya di tulisan saya pada tahun 2017 [di sini](pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia.md).
 
-!["Running Remote 2019"](/blog-img/running_remote.jpg)
+!["Running Remote 2019"](../../../public/blog-img/running_remote.jpg)
 *Menjadi panelist di Running Remote Conference 2019 bersama tim dari pemerintah Estonia untuk program e-Residency*
 
 ### Sedikit fakta tentang Estonia
@@ -34,7 +23,7 @@ Di tahun 2014, pemerintah Estonia memutuskan untuk membuka akses infrastruktur d
 
 Bedanya dengan kartu eID milik warga yang tinggal di Estonia adalah eID e-Residency hanya dapat dipakai untuk urusan bisnis perusahaan saja, seperti pendirian perusahaan, tandatangan dokumen legal perusahaan, akses perbankan Estonia, dan perpajakan.
 
-!["Kartu e-Residency"](/blog-img/e-residency_asep.jpg)
+!["Kartu e-Residency"](../../../public/blog-img/e-residency_asep.jpg)
 *Kartu eID Estonia milik saya. Ini kartu versi pertama, versi berikutnya sudah memiliki desain berbeda.*
 
 ### Keuntungan menjadi Estonia e-Resident dan membuka perusahaan di Estonia

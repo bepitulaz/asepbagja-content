@@ -1,22 +1,15 @@
 ---
 title: "Resensi Buku: Just Keep Buying"
 date: 2024-02-04
-images:
-- "/blog-img/just-keep-buying.jpg"
 categories:
 - Buku
 summary: "Buku yang membahas tentang menabung, berhutang, dan investasi."
-lang: "Bahasa Indonesia"
 ---
 
 Saya baru saja selesai membaca buku yang berjudul Just Keep Buying karya Nick Maggiulli. Nick Maggiulli adalah Chief Operating Officer dan Data Scientist di Ritholtz Wealth Management. Saya menemukan buku ini secara tidak sengaja di rak buku-buku bisnis di toko buku Rahva Raamat saat sedang jalan-jalan ke kota Tartu, kota kedua terbesar di Estonia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/just-keep-buying.jpg" class="figure-img img-fluid" alt="Just Keep Buying cover book" />
-<figcaption class="figure-caption text-center">Sampul buku Just Keep Buying karya Nick Maggiulli</figcaption>
-</figure>
-</div>
+![Just Keep Buying cover book](../../../public/blog-img/just-keep-buying.jpg)
+*Sampul buku Just Keep Buying karya Nick Maggiulli*
 
 Judulnya menarik perhatian saya karena terdengar sangat kontradiktif dengan topiknya yang membahas tentang membangun kesejahteraan finansial. Saya baca sekilas isinya, dan saya pun tertarik untuk membelinya. Saya pikir buku ini akan memberikan pandangan yang berbeda tentang bagaimana kita mengelola keuangan kita.
 

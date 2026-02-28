@@ -1,25 +1,17 @@
 ---
 title: "Akhirnya Kucing-Kucing Kesayangan Sampai di Tallinn"
 date: 2022-02-27
-images:
-- "/blog-img/pet-carrier.jpg"
 categories:
 - Pribadi
 summary: "Cerita proses kami memindahkan kucing-kucing kesayangan dari Denpasar ke Tallinn."
-lang: "Bahasa Indonesia"
-aliases:
-- /personal/memindahkan-kucing-indonesia-estonia
-- /personal/memindahkan-kucing-indonesia-estonia/
 ---
 
 Setelah lima bulan berpisah, akhirnya kucing-kucing kesayangan bergabung kembali dengan istri dan saya. Prosesnya cukup panjang untuk memindahkan mereka dari Denpasar sampai ke Tallinn, dan lumayan memakan biaya yang tidak sedikit. Untung saja biaya relokasi kucing-kucing ini juga sebagian besar ditanggung oleh tempat saya bekerja yang memang menganggap hewan peliharaan adalah bagian dari keluarga.
 
 Beberapa orang sempat mengira kalau kucing-kucing kami adalah kucing ras yang mahal, karena kami sampai bersusah payah memindahkan mereka. Padahal mereka adalah kucing-kucing kampung biasa yang datang sendiri ke rumah waktu masih kecil dan akhirnya kami adopsi. Mereka sudah kami adopsi dari semenjak kami tinggal di Tangerang Selatan tahun 2015 dan ikut pindah ke Denpasar pada tahun 2018. Jadi memang sudah menjadi bagian dari keluarga.
 
-<figure class="figure">
-<img src="/blog-img/pet-new-home.jpg" class="figure-img img-fluid" alt="Kucing di rumah baru" />
-<figcaption class="figure-caption text-center">Kucing kampung Tangerang Selatan di rumah baru di Tallinn.</figcaption>
-</figure>
+![Kucing di rumah baru](../../../public/blog-img/pet-new-home.jpg)
+*Kucing kampung Tangerang Selatan di rumah baru di Tallinn.*
 
 Memindahkan hewan peliharaan ke luar negeri tentu tidak semudah melakukan pindahan di dalam negeri. Ada banyak aturan yang perlu dicermati, apalagi kami pindahnya ke negara anggota Uni Eropa. Uni Eropa ini terkenal sebagai wilayah yang paling banyak aturannya. Yang membuat kami sempat setres adalah jadwal pindahan yang cukup padat. Kami hanya punya waktu sekitar 3 bulan semenjak saya dinyatakan diterima di kantor di Estonia. Lalu apa saja yang kami persiapkan untuk merelokasi bocah-bocah bulu kami?
 
@@ -35,20 +27,14 @@ Secara singkat dokumen yang diperlukan adalah:
 3. Rabies titer test. Ini memerlukan waktu 4-6 minggu karena sampel darah hewan peliharaan harus dikirim ke laboratorium yang diakui oleh Uni Eropa, dalam hal ini laboratoriumnya ada di Inggris.
 4. Sertifikat kesehatan dari dokter hewan yang diakui oleh Departemen Peternakan.
 
-<figure class="figure">
-<img src="/blog-img/pet-health-certificate.jpg" class="figure-img img-fluid" alt="Sertifikat kesehatan dan tes Rabies." />
-<figcaption class="figure-caption text-center">Sertifikat kesehatan dan dokumen tes rabies</figcaption>
-</figure>
+![Sertifikat kesehatan dan tes Rabies.](../../../public/blog-img/pet-health-certificate.jpg)
+*Sertifikat kesehatan dan dokumen tes rabies*
 
-<figure class="figure">
-<img src="/blog-img/pet-vaccine-certificate.jpg" class="figure-img img-fluid" alt="Sertifikat vaksin" />
-<figcaption class="figure-caption text-center">Sertifikat vaksin rabies dan vaksin pendukung lainnya</figcaption>
-</figure>
+![Sertifikat vaksin](../../../public/blog-img/pet-vaccine-certificate.jpg)
+*Sertifikat vaksin rabies dan vaksin pendukung lainnya*
 
-<figure class="figure">
-<img src="/blog-img/pet-barcode-microchip.jpg" class="figure-img img-fluid" alt="Barcode dari microchip yang ditanam ke kulit kucing" />
-<figcaption class="figure-caption text-center">Barcode dari microchip yang ditanam ke kulit kucing</figcaption>
-</figure>
+![Barcode dari microchip yang ditanam ke kulit kucing](../../../public/blog-img/pet-barcode-microchip.jpg)
+*Barcode dari microchip yang ditanam ke kulit kucing*
 
 Karena kami takut ada kesalahan, akhirnya kami memutuskan untuk menggunakan jasa agen relokasi hewan untuk mengurus semua dokumen tersebut. Selain itu juga kami merasa tidak mampu untuk menangani urusan hewan peliharaan berbarengan dengan urusan dokumen relokasi manusia. Pikiran kami sudah terlalu penuh untuk memikirkan semuanya apalagi kami cuma punya waktu 3 bulan. Agen yang membantu kami mengurus semua dokumen waktu itu adalah [Animal Express](https://animalexpress.co.id).
 
@@ -72,9 +58,7 @@ Akhirnya setelah dipertimbangkan pilihan kami jatuh kepada Turkish Airlines kare
 
 Mengingat rumah saya hanya 5 menit dari bandara Tallinn, pilihan menggunakan Turkish Airlines adalah yang paling bijak karena kucing-kucing tidak perlu lama-lama berdingin-dingin di luar.
 
-<figure class="figure">
-<img src="/blog-img/pet-carrier.jpg" class="figure-img img-fluid" alt="Tas untuk membawa kucing." />
-<figcaption class="figure-caption text-center">Mereka dicatat sebagai kargo Turkish Airlines.</figcaption>
-</figure>
+![Tas untuk membawa kucing.](../../../public/blog-img/pet-carrier.jpg)
+*Mereka dicatat sebagai kargo Turkish Airlines.*
 
 Begitulah cerita kami merelokasi kucing-kucing kesayangan kami dari Denpasar ke Tallinn. Sekarang keluarga berbulu kami sudah berkumpul bersama lagi dan menjadi kucing ekspatriat. 😸

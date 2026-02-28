@@ -1,8 +1,6 @@
 ---
-title: 2016 Personal Challenges
+title: "2016 Personal Challenges"
 date: 2016-01-04
-images:
-- "/blog-img/aurora.jpg"
 categories:
 - Personal
 summary: "Annually I challenged myself with some new skills and some targets."

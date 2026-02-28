@@ -1,10 +1,8 @@
 ---
-title: Urban Farming with Clojure
+title: "Urban Farming with Clojure"
 date: 2015-08-09
 categories:
 - Programming
-images:
-- "https://cdn.hackaday.io/images/1186661438911748780.JPG"
 summary: "Physical world is actually concurrent, thus why not give Clojure a shot?"
 ---
 

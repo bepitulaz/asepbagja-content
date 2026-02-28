@@ -1,10 +1,8 @@
 ---
-title: My Learning Curve In IoT World As A Web and iOS Developer
+title: "My Learning Curve In IoT World As A Web and iOS Developer"
 date: 2015-03-16
 categories:
 - Programming
-images:
-- "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
 summary: "I was interested for learning electronic again as a hobby around 2-3 years ago."
 ---
 
@@ -23,8 +21,6 @@ Today, learning Arduino programming from web development background is getting e
 After doing some small toy projects in Arduino platform, I read about Raspberry Pi the $35 credit card size computer. The first time I knew about GPIO (General Purpose Input/Output) was from this board, and with this board also I learned how to build a cross compiler toolchain for compiling C program from OSX to RPi. I was using this board for various purposes, mostly for home entertainment.
 
 My latest hobby project was building the automation system for my aquarium. It utilized RPi to control servo motor for rotating the fish food dispenser over the internet. I built it by using NodeJS, SocketIO, and [Johnny-Five](https://www.npmjs.com/package/johnny-five) package.
-
-<iframe src="https://www.youtube.com/embed/oNoDhwC3RDk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 The problem came when I want to deploy it on my aquarium. I felt $35 was not worth to be placed as a permanent installation, because I still need the RPi for my home entertainment. So, I should find the cheap way. Arduino obviously not the cheap way. It is $15, but if I want to connect it to the internet I should buy either ethernet shield or the expensive wifi shield.
 

@@ -1,28 +1,22 @@
 ---
-title: "Bye, Bali! Sampai Jumpa Lagi." 
+title: "Bye, Bali! Sampai Jumpa Lagi."
 date: 2021-09-26
 categories:
 - Pribadi
-images:
-- "/blog-img/fly-ankara.jpg"
 summary: "Bulan madu saya selama 3,5 tahun di Bali sudah selesai, saatnya berpindah."
-lang: "Bahasa Indonesia"
-aliases:
-- /personal/bye-bali-sampai-jumpa-lagi
-- /personal/bye-bali-sampai-jumpa-lagi/
 ---
 
-Saat saya menuliskan artikel ini, posisi saya sudah berada di kota Ankara, Turki. Sedang bersantai di balkon hotel, menikmati udara sejuk, dan sinar mentari kawasan Mediterania. Saya berada di kota ini untuk mengurus visa untuk tinggal di Estonia. Ya, akhirnya setelah pertama kali mengenal Estonia dan [membangun bisnis di sana](https://www.asepbagja.com/id/bisnis/pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia) secara jarak jauh pada tahun 2017, sekarang saya memutuskan untuk berpindah ke sana.
+Saat saya menuliskan artikel ini, posisi saya sudah berada di kota Ankara, Turki. Sedang bersantai di balkon hotel, menikmati udara sejuk, dan sinar mentari kawasan Mediterania. Saya berada di kota ini untuk mengurus visa untuk tinggal di Estonia. Ya, akhirnya setelah pertama kali mengenal Estonia dan [membangun bisnis di sana](pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia.md) secara jarak jauh pada tahun 2017, sekarang saya memutuskan untuk berpindah ke sana.
 
-![Terbang di atas Ankara](/blog-img/fly-ankara.jpg)
+![Terbang di atas Ankara](../../../public/blog-img/fly-ankara.jpg)
 
-[Kilas balik ke tahun 2018](https://www.asepbagja.com/id/pribadi/satu-dekade-saya), ini adalah tahun di mana saya dan istri memutuskan untuk pindah dari Tangerang Selatan. Sudah merasa bosan dan sumpek tinggal di wilayah seputaran Jakarta, kami pun memutuskan untuk hidup lebih lambat jauh dari hiruk pikuk ibukota. Pulau Bali menjadi pilihan. Setahun sekali dari semenjak menikah tahun 2014, selalu berlibur ke Bali. Akhirnya malah jatuh cinta dengan pulau tersebut.
+[Kilas balik ke tahun 2018](satu-dekade-saya.md), ini adalah tahun di mana saya dan istri memutuskan untuk pindah dari Tangerang Selatan. Sudah merasa bosan dan sumpek tinggal di wilayah seputaran Jakarta, kami pun memutuskan untuk hidup lebih lambat jauh dari hiruk pikuk ibukota. Pulau Bali menjadi pilihan. Setahun sekali dari semenjak menikah tahun 2014, selalu berlibur ke Bali. Akhirnya malah jatuh cinta dengan pulau tersebut.
 
 Saat itu saya berkata ke istri, "Setelah Jakarta, sekarang kita menuju ke Bali untuk *slow life*. Setelah Bali, tujuan berikutnya Estonia atau Finland. Kalau ternyata tidak kesampaian dalam 5 tahun, ya kita menetap di Bali saja. Beli rumah dan membangun bisnis dari sana." Istri pun setuju dengan rencana tersebut. Kenapa targetnya dua negara tersebut? Lagi-lagi cinta pada pandangan pertama setelah sempat berkunjung ke kedua negara tersebut di tahun 2017.
 
 **Pandemi Covid-19 mengubah segalanya**
 
-Tahun 2020, tahun yang memaksa saya untuk keluar dari [zona nyaman (lagi)](https://www.asepbagja.com/id/bisnis/terima-kasih-froyo-asep-is-out). Bisnis di Tanibox bergoyang. Beberapa klien putus kontrak akibat pandemi dan hanya menyisakan 1 klien saja dari Portugal. Selain itu investasi di kebun jagung seluas 7 hektar juga mengalami kegagalan. Untuk kebun jagung, ini adalah kombinasi pandemi dan salah memilih partner kerjasama. Beruntungnya di luar Tanibox, saya kadang masih menerima proyek pembuatan web dan app. Jadi arus kas keluarga masih lumayan aman.
+Tahun 2020, tahun yang memaksa saya untuk keluar dari [zona nyaman (lagi)](terima-kasih-froyo-asep-is-out.md). Bisnis di Tanibox bergoyang. Beberapa klien putus kontrak akibat pandemi dan hanya menyisakan 1 klien saja dari Portugal. Selain itu investasi di kebun jagung seluas 7 hektar juga mengalami kegagalan. Untuk kebun jagung, ini adalah kombinasi pandemi dan salah memilih partner kerjasama. Beruntungnya di luar Tanibox, saya kadang masih menerima proyek pembuatan web dan app. Jadi arus kas keluarga masih lumayan aman.
 
 Tapi saya dan istri merasa akan sulit maju di tengah pandemi yang tidak menentu dan tampaknya akan lama ini, jika kami masih menetap di Bali. Untuk mendapatkan hasil yang berbeda, tentu membutuhkan cara yang berbeda pula. Permasalahannya, kembali ke Jakarta bukan lah opsi untuk kami berdua. Kami sudah malas untuk kembali tinggal di sana.
 
@@ -49,6 +43,6 @@ Jadi, ya ini lah saya sekarang. Setelah 3 bulan bekerja secara remote untuk Jobb
 
 **Suksma, Bali!**
 
-![Sunset di Bali](/blog-img/sunset-bali.jpg)
+![Sunset di Bali](../../../public/blog-img/sunset-bali.jpg)
 
 Jadi, sampai bertemu lagi Bali di lain waktu. Tempat yang memang cocok untuk merasakan *slow life*. Tetapi sayangnya situasi saat ini tidak memungkinkan untuk berlama-lama tinggal di Bali. Terima kasih untuk 3,5 tahun terakhir yang seperti *roller-coaster*, dan untungnya selalu ada pantai dan gunung yang bisa menjadi tempat penyegaran pikiran.

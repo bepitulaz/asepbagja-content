@@ -1,23 +1,14 @@
 ---
 title: "Membangun Sistem High Frequency Trading Sederhana"
 date: 2019-09-19
-images:
-- "/blog-img/candlestick.jpg"
 categories:
 - Pemrograman
-aliases:
-- /artikel/membangun-sistem-hft-sederhana
-- /artikel/membangun-sistem-hft-sederhana/
-- /posts/membangun-sistem-hft-sederhana
-- /id/artikel/membangun-sistem-hft-sederhana
-- /programming/membangun-sistem-hft-sederhana
-- /programming/membangun-sistem-hft-sederhana/
 summary: "High-Frequency Trading (HFT) adalah strategi perdagangan aset di mana trader tidak menyimpan aset lama-lama."
 ---
 
 Dua minggu terakhir ini saya sibuk mengerjakan sebuah proyek sampingan pribadi yang berhubungan dengan pasar finansial, yaitu melakukan otomatisasi terhadap kegiatan perdagangan di bursa cryptocurrency. Saya yakin untuk yang sudah terbiasa melakukan kegiatan *trading* pasti sering mendengar istilah *robot trading*. Di mana perdagangan dilakukan secara otomatis oleh komputer.
 
-!["Candlestick chart"](/blog-img/candlestick.jpg)
+!["Candlestick chart"](../../../public/blog-img/candlestick.jpg)
 
 Saya memutuskan untuk membangun sistem sendiri dari nol dengan tujuan supaya benar-benar paham bagaimana sistem yang saya bangun bekerja sambil terus mengasah ilmu di bidang *[algorithmic trading](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)*.
 
@@ -35,7 +26,7 @@ Oleh karena itu, untuk proses belajar, saya beralih ke bursa cryptocurrency kare
 
 Sistem yang saya buat menggunakan arsitektur *microservices* untuk memastikan bahwa sistem ini bisa diperbesar lagi dengan mudah *(scalable)*. Ada empat *services*: Raw Data Service, Trading Service, Trading Strategy Development Service, dan Data Warehouse.
 
-!["Arsitektur Sistem"](/blog-img/my-hft-system.jpg)
+!["Arsitektur Sistem"](../../../public/blog-img/my-hft-system.jpg)
 *Arsitektur sistem trading yang saya rancang.*
 
 #### Raw Data Service
@@ -56,7 +47,7 @@ Di dalam Trading Service ini lah algoritma *trading* diimplementasikan. Sistem a
 
 *Service* ini tidak berhubungan dengan bursa sama sekali. Di bagian ini lah saya melakukan [analisa teknikal](https://en.wikipedia.org/wiki/Technical_analysis) dengan menggunakan berbagai macam indikator, membangun algoritma yang akan digunakan sebagai strategi, dan juga melakukan *backtesting*. *Backtesting* adalah tahapan menguji algoritma dengan menggunakan data historis apakah algoritma tersebut menguntungkan atau tidak. Data historis ini saya ambil dari Data Warehouse.
 
-!["Backtesting"](/blog-img/backtest.png)
+!["Backtesting"](../../../public/blog-img/backtest.png)
 *Contoh hasil backtesting menggunakan data satu hari ke belakang dengan timeframe satu menit*
 
 #### Data Warehouse

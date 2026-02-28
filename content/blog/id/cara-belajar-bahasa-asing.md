@@ -1,28 +1,20 @@
 ---
 title: "Cara Belajar Bahasa Asing Secara Mandiri"
 date: 2022-04-03
-images:
-- "/blog-img/tere-jalle.jpg"
 categories:
 - Pribadi
 summary: "Cara saya belajar bahasa asing secara mandiri tanpa ikut kelas berjadwal khusus."
-lang: "Bahasa Indonesia"
-featured: false
 ---
 
 Selain [bermusik](http://asepbagja.com/music) saya juga senang mempelajari bahasa, baik bahasa pemrograman maupun bahasa asing. Beberapa bahasa asing yang pernah saya pelajari di antaranya Inggris, Cina (Mandarin), Finnish (Finland), Melayu (Malaysia), Hungaria, dan Estonia. Tapi beberapa di antaranya sudah mulai lupa karena tidak pernah dipakai. Bahasa asing yang masih aktif saya pakai dan pelajari sekarang hanya Inggris, Estonia, dan Melayu. Bahasa Inggris tentu saja karena itu sudah menjadi bahasa sehari-hari, Estonia karena sekarang saya tinggal di Estonia dan berencana untuk menetap jangka panjang, serta Melayu biasanya untuk berkomunikasi dengan teman-teman di komunitas *indie maker* yang isinya banyak orang Malaysia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/asep-bagja-priandana-Q3tz6XkBP_c-unsplash.jpg" class="figure-img img-fluid" alt="Taman Jepang di musim semi." />
-<figcaption class="figure-caption text-center">Taman Jepang di kota Tallinn di musim semi. Foto dari <a href="https://unsplash.com/@asepbagja">Unsplash saya.</a></figcaption>
-</figure>
-</div>
+![Taman Jepang di musim semi.](../../../public/blog-img/asep-bagja-priandana-Q3tz6XkBP_c-unsplash.jpg)
+*Taman Jepang di kota Tallinn di musim semi. Foto dari Unsplash saya.*
 
 Tahukah kamu kalau mempelajari bahasa asing dan menjadi seorang yang bilingual atau bahkan *polyglot* ternyata memiliki banyak manfaat. Beberapa di antaranya:
 - Membuka sumber ilmu baru. Misal seperti saya yang berkarir di dunia teknologi informasi, bahasa Inggris adalah bahasa yang penting dikuasai karena sumber-sumber belajar terbanyak, terbaru, dan mendalam biasanya menggunakan bahasa Inggris.
 - Memudahkan dalam menemukan informasi baru di Internet. Misal kamu ingin berjualan ke negara yang bahasa nasionalnya bukan Inggris, tentu kamu akan kesulitan jika hanya *googling* dengan menggunakan bahasa Inggris. Banyak informasi menarik yang dituliskan dalam bahasa lokal.
-- Memperlebar peluang untuk berkarir di luar negeri. Ini sangat saya rasakan saat saya iseng belajar bahasa Estonia di tahun 2018. Tidak ada niatan selain ingin tahu saja, dan saat itu saya pun masih mengurus perusahaan sendiri dari Bali lewat program [e-Residency Estonia](https://www.asepbagja.com/id/bisnis/apa-itu-estonia-e-residency). Tapi ternyata tahun 2021 ketika saya mendapat [wawancara pekerjaan](https://www.asepbagja.com/id/pribadi/mencari-kerja-di-luar-negeri) di perusahaan Estonia, hal itu menjadi nilai plus di mata HR untuk merekrut saya. Walaupun sebetulnya di kantor juga tetap menggunakan bahasa Inggris sebagai bahasa komunikasi resmi.
+- Memperlebar peluang untuk berkarir di luar negeri. Ini sangat saya rasakan saat saya iseng belajar bahasa Estonia di tahun 2018. Tidak ada niatan selain ingin tahu saja, dan saat itu saya pun masih mengurus perusahaan sendiri dari Bali lewat program [e-Residency Estonia](apa-itu-estonia-e-residency.md). Tapi ternyata tahun 2021 ketika saya mendapat [wawancara pekerjaan](mencari-kerja-di-luar-negeri.md) di perusahaan Estonia, hal itu menjadi nilai plus di mata HR untuk merekrut saya. Walaupun sebetulnya di kantor juga tetap menggunakan bahasa Inggris sebagai bahasa komunikasi resmi.
 - Mengurangi resiko Alzheimer dan kepikunan. Dari sisi kesehatan, saya membaca kalau belajar bahasa asing kedua, ketiga, atau lebih dapat membantu [mengurangi resiko terkena Alzheimer dan kepikunan](https://news.las.iastate.edu/2021/01/28/study-shows-learning-a-second-language-thwarts-onset-of-dementia/) karena otak dipaksa untuk selalu belajar dan bekerja.
 
 Bersyukurlah untuk orang-orang Indonesia, kebanyakan dari kita sudah bilingual atau trilingual sedari kecil. Setidaknya mampu berbahasa Indonesia dan paham bahasa daerah masing-masing. Hal ini sangat membantu dalam mempelajari bahasa asing lainnya.
@@ -35,12 +27,8 @@ Saya masih ingat dulu saat belajar bahasa Inggris ketika masih remaja, materi be
 
 Saya paling senang belajar bahasa asing dari buku teks, karena materi belajarnya terstruktur dari tingkat pemula hingga tingkat lanjut. Jika bahasa asing yang kamu target mudah dicari buku teksnya di toko buku, saya sarankan untuk membelinya. Saya menggunakan buku teks saat saya belajar bahasa Inggris, Mandarin, dan Estonia. Untuk bahasa Inggris dan Mandarin sangat mudah untuk mencarinya di Indonesia. Sedangkan saat belajar bahasa Estonia, saya hanya bisa mendapatkannya ketika sudah pindah ke Estonia karena tidak ada yang menjual di Indonesia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/tere-jalle.jpg" class="figure-img img-fluid" alt="Buku teks" />
-<figcaption class="figure-caption text-center">Buku teks belajar bahasa Estonia dari tingkat A1 hingga A2 dan perkenalan B1.</a></figcaption>
-</figure>
-</div>
+![Buku teks](../../../public/blog-img/tere-jalle.jpg)
+*Buku teks belajar bahasa Estonia dari tingkat A1 hingga A2 dan perkenalan B1.*
 
 #### Aplikasi untuk ponsel
 

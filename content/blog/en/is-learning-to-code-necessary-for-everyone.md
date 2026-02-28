@@ -1,10 +1,8 @@
 ---
-title: Is Learning to Code Necessary for Everyone?
+title: "Is Learning to Code Necessary for Everyone?"
 date: 2015-01-28
 categories:
 - Programming
-images:
-- "/blog-img/code.jpg"
 summary: "Many peoples that desire to make business in technology industry are not always coming from computer science background."
 ---
 

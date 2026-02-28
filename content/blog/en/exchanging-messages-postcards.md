@@ -1,13 +1,9 @@
 ---
 title: "Exchanging Messages Through Postcards"
 date: 2022-09-05
-images:
-- "/blog-img/pile-of-postcard.jpg"
 categories:
 - Personal
 summary: "In July 2022, I was chatting with some friends in a group chat about the nostalgia of waiting for the postman to come with letters from friends."
-lang: "English"
-featured: false
 ---
 
 People who were born from the years 1981-1996 or commonly called the millennial generation (generation Y), are the transition generation between all-analog and digitalized lives, thanks to the existence of the internet and cellular phones. Especially if you’re a millennial born before 1990, there’s a high chance that you experienced a lot of analog communication modes, such as phone cards, telephone coins, mail exchanges, or even having pen pals in your childhood and adolescence. 
@@ -16,12 +12,8 @@ When I was little, I’d usually move around the cities once every 3-4 years to 
 
 Of course, this communication process via mail took a long time. Imagine waiting for mail replies from East Java to Papua (I used to live in Jayapura), which could take several weeks. The Postman was someone that you’d always look forward to. 
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/pile-of-postcard.jpg" class="figure-img img-fluid" alt="A pile of postcards" />
-<figcaption class="figure-caption text-center">Postcards that I printed from my photos.</figcaption>
-</figure>
-</div>
+![A pile of postcards](../../../public/blog-img/pile-of-postcard.jpg)
+*Postcards that I printed from my photos.*
 
 In July 2022, I chatted with some friends around my age in a group chat about how fun it was to send Eid greeting cards and postcards. This group chat existed because we have lived in Bali and Jakarta, and now some people have already moved again. There is a friend in Jakarta that already moved to the United States, a friend from Bali who moved to Portugal, including me that already moved to Estonia from Bali, and there is a friend that moved from Bali to Jakarta.
 
@@ -45,12 +37,8 @@ I initially tried to print 5 pieces and the results weren’t very good. Of cour
 
 While I was waiting for my postcards to be printed, one postcard from my friend in Chicago, United States arrived. It did indeed feel different when seeing my friend’s handwriting on that postcard compared to when seeing their typing on the phone or computer screen. Especially, seeing that the postcard is already slightly worn and folded at the ends due to the very long delivery process. It made me really want to keep the postcard well.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-chicago.jpg" class="figure-img img-fluid" alt="A postcard from Chicago, United States" />
-<figcaption class="figure-caption text-center">A postcard from Chicago, United States</figcaption>
-</figure>
-</div>
+![A postcard from Chicago, United States](../../../public/blog-img/kartu-pos-chicago.jpg)
+*A postcard from Chicago, United States*
 
 My postcard order finally arrived.
 
@@ -58,21 +46,13 @@ Another difficulty I faced was, “What am I supposed to write in this postcard?
 
 After the messages were written, I immediately went to the post office to send those postcards. I  then found out that the delivery cost for international postcards is actually not expensive. The stamps cost only 1,9€ for each delivery to the United States, Portugal, and Indonesia.
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-eesti.jpg" class="figure-img img-fluid" alt="The postcards that I sent from Estonia." />
-<figcaption class="figure-caption text-center">The postcards that I sent from Estonia.</figcaption>
-</figure>
-</div>
+![The postcards that I sent from Estonia.](../../../public/blog-img/kartu-pos-eesti.jpg)
+*The postcards that I sent from Estonia.*
 
 After returning from the post office, I curiously checked my mailbox. “Whoa, there’s a postcard from my friend that lives in Braga, Portugal.” Just like the previous postcard I received, this postcard was also already worn. It looked even more beautiful to my eyes. 😆
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/kartu-pos-braga.jpg" class="figure-img img-fluid" alt="A postcard from Braga, Portugal." />
-<figcaption class="figure-caption text-center">A postcard from Braga, Portugal.</figcaption>
-</figure>
-</div>
+![A postcard from Braga, Portugal.](../../../public/blog-img/kartu-pos-braga.jpg)
+*A postcard from Braga, Portugal.*
 
 I learned a few things from these postcard exchanges:
 

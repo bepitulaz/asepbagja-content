@@ -1,14 +1,12 @@
 ---
-title: Simple, Cheap, and Scalable IoT Data Logging With Clojure
+title: "Simple, Cheap, and Scalable IoT Data Logging With Clojure"
 date: 2015-12-08
 categories:
 - Programming
-images:
-- "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/500px-Clojure_logo.svg.png"
 summary: "The concept is simple. Just catch the string from the sensor, transform it into Clojure data structure."
 ---
 
-I have a small green house in [my home front yard](https://www.asepbagja.com/personal/my-familys-journey-to-grow-our-own-food/), and I deployed some sensors like temperature, humidity, electrical conductivity (EC), and pH sensor there.
+I have a small green house in [my home front yard](my-familys-journey-to-grow-our-own-food.md), and I deployed some sensors like temperature, humidity, electrical conductivity (EC), and pH sensor there.
 
 After the development of the sensors completed, it was the time for me to develop the web service for logging the data. I considered to use NoSQL database for persistent data storage. Otherwise I dismissed that idea for the sake of cost efficiency.
 

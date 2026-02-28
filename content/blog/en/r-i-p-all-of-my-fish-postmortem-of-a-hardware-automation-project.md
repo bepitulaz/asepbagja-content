@@ -1,10 +1,8 @@
 ---
-title: R.I.P All of My Fish. Postmortem of A Hardware Automation Project
+title: "R.I.P All of My Fish. Postmortem of A Hardware Automation Project"
 date: 2015-07-21
 categories:
 - Programming
-images:
-- "/blog-img/aquarium-post-mortem.jpeg"
 summary: "One of the biggest problem of having pet is filling its needs while the owner leaving the home."
 ---
 
@@ -16,7 +14,7 @@ Three days before the departure, I started to create it. I have an Arduino Uno R
 
 Then I moved with second design. The Arduino would be rotating the servo twice a day without notified me whether it fed the fish successfully or not. I tested it several times, and 150% sure that this device worked with zero bug in code.
 
-![working-design](/blog-img/aquarium-post-mortem.jpeg)
+![working-design](../../../public/blog-img/aquarium-post-mortem.jpeg)
 
 I left my home confidently.
 

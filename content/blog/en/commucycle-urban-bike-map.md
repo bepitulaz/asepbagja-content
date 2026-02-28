@@ -1,22 +1,15 @@
 ---
 title: "Commucycle: Urban Cycling Map"
 date: 2023-10-10
-images:
-- "/blog-img/commucycle-marketing.jpg"
 categories:
 - Programming
 summary: "With the help of AI, I build and release an iOS app for commuting by bicycle worldwide."
-featured: false
 ---
 
-In the past few months, I work on a side project called <a href="https://www.commucycle.com" target="_blank">Commucycle</a>. It is an iOS app that helps you find the best route to commute by bicycle, and it works worldwide. It is available for free on the <a href="https://apps.apple.com/us/app/commucycle-urban-cycling-map/id6463171771?itsct=apps_box_promote_link&itscg=30200" target="_blank">App Store</a>.
+In the past few months, I work on a side project called [Commucycle](https://www.commucycle.com). It is an iOS app that helps you find the best route to commute by bicycle, and it works worldwide. It is available for free on the [App Store](https://apps.apple.com/us/app/commucycle-urban-cycling-map/id6463171771?itsct=apps_box_promote_link&itscg=30200).
 
-<div class="text-center">
-<figure class="figure">
-<img src="https://www.asepbagja.com/blog-img/commucycle-marketing.jpg" class="figure-img img-fluid" alt="The landing page of Commucycle" />
-<figcaption class="figure-caption text-center">Download Commucycle on App Store</figcaption>
-</figure>
-</div>
+![The landing page of Commucycle](../../../public/blog-img/commucycle-marketing.jpg)
+*Download Commucycle on App Store*
 
 Here's the story behind why I built this app.
 
@@ -26,7 +19,7 @@ Since I moved to Estonia two years ago, I ride the bicycle to go everywhere. It�
 
 I usually use Google Maps to find the best route to go somewhere I have never been. However, Google Maps doesn’t has a bicycle mode in Estonia. So, I usually use the walking path instead. It works, but it’s not ideal. The walking mode doesn’t know that I can ride on the bicycle path, so it often gives me a route that is not optimal for cycling.
 
-I decided to solve this problem. After researching where to get data for the bicycle path, I chose the service of <a href="https://stadiamaps.com" target="_blank">Stadia Maps</a>. They have an API that can calculate the best route for bicycle. Their routing API is based on <a href="https://github.com/valhalla/valhalla" target="_blank">Valhalla</a>, an open-source routing engine for OpenStreetMap data.
+I decided to solve this problem. After researching where to get data for the bicycle path, I chose the service of [Stadia Maps](https://stadiamaps.com). They have an API that can calculate the best route for bicycle. Their routing API is based on [Valhalla](https://github.com/valhalla/valhalla), an open-source routing engine for OpenStreetMap data.
 
 ### Why building for iOS?
 
@@ -36,7 +29,7 @@ Nowadays, Apple uses Swift as its programming language for iOS development. I ha
 
 Here’s the thread on Twitter (X) about my experience using Github Copilot to build this app.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since Apple and Google map doesn’t has bicycle route for Estonia, so I decide to create my own app and solving my problem. Here’s how I learn iOS development from zero in 2023: <a href="https://t.co/mpYkjcKBGb">pic.twitter.com/mpYkjcKBGb</a></p>&mdash; Asep Bagja 🍍 (@bepituLaz) <a href="https://twitter.com/bepituLaz/status/1684992165099794432?ref_src=twsrc%5Etfw">July 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since Apple and Google map doesn’t has bicycle route for Estonia, so I decide to create my own app and solving my problem. Here’s how I learn iOS development from zero in 2023: [pic.twitter.com/mpYkjcKBGb](https://t.co/mpYkjcKBGb)</p>&mdash; Asep Bagja 🍍 (@bepituLaz) [July 28, 2023](https://twitter.com/bepituLaz/status/1684992165099794432?ref_src=twsrc%5Etfw)</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### What's next?
 

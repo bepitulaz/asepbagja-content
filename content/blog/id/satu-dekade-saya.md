@@ -1,22 +1,14 @@
 ---
 title: "Perjalanan Satu Dekade Saya"
 date: 2019-12-26
-images:
-- "/blog-img/graduation.png"
 categories:
 - Pribadi
-aliases:
-- /artikel/satu-dekade-saya
-- /artikel/satu-dekade-saya/
-- /id/artikel/satu-dekade-saya
-- /personal/satu-dekade-saya
-- /personal/satu-dekade-saya/
 summary: "Di media sosial, banyak orang menuliskan pencapaian-pencapaian penting di hidupnya selama periode 2010-2019."
 ---
 
 Sebentar lagi kita akan memasuki tahun 2020, sebuah awal dekade baru. Di media sosial, banyak orang menuliskan pencapaian-pencapaian penting di hidupnya selama periode 2010-2019. Saya pun akan melakukan hal serupa, tapi tidak di media sosial. Akan lebih bebas jika saya tuliskan di blog ini saja.
 
-![from this to this](/blog-img/graduation.png)
+![from this to this](../../../public/blog-img/graduation.png)
 
 ### 2010
 
@@ -54,7 +46,7 @@ Tahun 2015 ini juga saya mulai merasa galau tentang masa depan dan tujuan hidup.
 
 ### 2016
 
-Terekspos dengan negara yang bernama Estonia karena kawan dekat saya mendapat beasiswa kuliah di sana. Banyak membaca soal Estonia dan akhirnya menemukan program [**Estonia e-Residency**](https://asepbagja.com/id/artikel/apa-itu-estonia-e-residency/). Di tahun ini akhirnya memutuskan untuk mendaftar sebagai e-Resident.
+Terekspos dengan negara yang bernama Estonia karena kawan dekat saya mendapat beasiswa kuliah di sana. Banyak membaca soal Estonia dan akhirnya menemukan program [**Estonia e-Residency**](apa-itu-estonia-e-residency.md). Di tahun ini akhirnya memutuskan untuk mendaftar sebagai e-Resident.
 
 Cikal bakal [**Tanibox**](https://tanibox.com) mulai terbentuk di tahun ini. Di 2016 ini juga, kami meluncurkan Tania versi awal ke publik sebagai proyek *open-source*.
 
@@ -62,9 +54,9 @@ Masih galau dengan tujuan hidup, bisnis, dan karir. *Quarter life crisis* saya l
 
 ### 2017
 
-Mengambil keputusan besar. Saya memutuskan untuk [*exit* dari Froyo](https://asepbagja.com/id/bisnis/terima-kasih-froyo-asep-is-out/) dan menjual seluruh kepemilikan saham saya di sana. Di tahun ini krisis seperempat abad saya menghilang. Bersama istri, tekad kami bulat untuk menjadikan Tanibox sebagai sebuah bisnis.
+Mengambil keputusan besar. Saya memutuskan untuk [*exit* dari Froyo](terima-kasih-froyo-asep-is-out.md) dan menjual seluruh kepemilikan saham saya di sana. Di tahun ini krisis seperempat abad saya menghilang. Bersama istri, tekad kami bulat untuk menjadikan Tanibox sebagai sebuah bisnis.
 
-Kami segera [**mendaftarkan Tanibox**](https://asepbagja.com/id/artikel/pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia/) sebagai perusahaan di Indonesia dan Estonia sekaligus.
+Kami segera [**mendaftarkan Tanibox**](pengalaman-mengagumkan-mendaftarkan-perusahaan-di-estonia.md) sebagai perusahaan di Indonesia dan Estonia sekaligus.
 
 ### 2018
 

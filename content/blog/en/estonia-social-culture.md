@@ -1,13 +1,9 @@
 ---
 title: "Social Interaction And The Culture In Estonia"
 date: 2022-04-29
-images:
-- "/blog-img/personal-space.jpg"
 categories:
 - Estonia
 summary: "How to interact with Estonians and integrate well?"
-lang: "English"
-featured: false
 ---
 
 Social interaction is social relationships between an individual to another individual, an individual to a group, and a group to another group. We as humans will always perform social interactions wherever we are since we are social creatures. It’s very rare for a person to live without other people’s help at all.
@@ -18,10 +14,8 @@ For me who migrated from a country whose climate is tropical, warm, and densely 
 
 These are some of the things I learned so far based on my observation and personal experience, either in public spaces or work environments. These might be useful if you have an opportunity to visit or move to Estonia so that it won’t be too shocking for you.
 
-<figure class="figure">
-<img src="/blog-img/walk-from-behind.jpg" class="figure-img img-fluid" alt="Estonia yang sepi dan dingin" />
-<figcaption class="figure-caption text-center">The quiet and cold Estonia</figcaption>
-</figure>
+![Estonia yang sepi dan dingin](../../../public/blog-img/walk-from-behind.jpg)
+*The quiet and cold Estonia*
 
 ### Very rarely smiling
 
@@ -49,17 +43,13 @@ From the above incident, I concluded that it’s better not to ask customer supp
 
 ### Respecting other people’s personal space
 
-During the Covid-19 pandemic, we were advised to keep a distance of at least 1,5 meters. I remembered what an Estonian guy said in the e-Residency group, “I don’t think we need that. We always stand more than 2 meters in our life”. I understood what he meant by that only after I [moved to Tallinn](https://www.asepbagja.com/personal/finding-job-software-developer-abroad). When waiting for a bus or tram, people will stand apart from each other so they won’t be greeted by other people. They only stand closer to other people if they already knew each other.
+During the Covid-19 pandemic, we were advised to keep a distance of at least 1,5 meters. I remembered what an Estonian guy said in the e-Residency group, “I don’t think we need that. We always stand more than 2 meters in our life”. I understood what he meant by that only after I [moved to Tallinn](finding-job-software-developer-abroad.md). When waiting for a bus or tram, people will stand apart from each other so they won’t be greeted by other people. They only stand closer to other people if they already knew each other.
 
-<figure class="figure">
-<img src="/blog-img/personal-space.jpg" class="figure-img img-fluid" alt="Orang-orang menunggu bus" />
-<figcaption class="figure-caption text-center">The scene of standing apart in a bus station</figcaption>
-</figure>
+![Orang-orang menunggu bus](../../../public/blog-img/personal-space.jpg)
+*The scene of standing apart in a bus station*
 
-<figure class="figure">
-<img src="/blog-img/trammipeatus.gif" class="figure-img img-fluid" alt="Orang-orang menunggu tram" />
-<figcaption class="figure-caption text-center">People who don’t know each other appeared to stand apart</figcaption>
-</figure>
+![Orang-orang menunggu tram](../../../public/blog-img/trammipeatus.gif)
+*People who don’t know each other appeared to stand apart*
 
 Sometimes your friends wouldn’t even greet you in public if you appeared to be busy. One time my work friend said, “I saw you yesterday in Prisma”. I asked, “Why didn’t you say hi to me?”. His response was, “You looked busy with your stuff. I didn’t want to bother you”. He thought if he said hi to me, it would bother me because we would end up chatting.
 
@@ -69,7 +59,7 @@ Contrary to respecting other people’s personal space, Estonians prefer to hug 
 
 The hugs usually will happen on first meets, when saying goodbyes after long conversations, or when there are events that feel awkward. My wife experienced it once when an old lady tried to talk to her in Estonian at the Supermarket. My wife didn’t understand Estonian very much so she just replied with a short yes. After the conversation prolonged, my wife told the old lady that she only speaks English. The lady then laughed and hugged my wife.
 
-<hr class="border-2 border-top" />
+---
 
 Estonians come across as cold and harsh like ice cubes. Don’t get it wrong though, they appeared cold on the outside but warm on the inside. They don’t hesitate to offer help whenever they can. I have one recent example of this. It was when my wife and I went shopping at a big store, at the cashier register. The cashier asked me in Estonian, “Kas sul on kliendikaart? (do you have a member’s card?)”. I replied, “Ei ole (I don’t have it)” because it was my first time shopping at that store. Then I continued in English because my Estonian is still limited, “What’s the benefit?”. She then explained that without a member's card I’ll need to pay the price in full. I thought I could just pay the full price no problem. But suddenly an Estonian who was queueing behind me said, “Use my card and get the discount. Palun (please)”, and he just tapped his member’s card to the cashier machine without us needing to ask. 
 
@@ -79,6 +69,6 @@ Some of the tips from me to interact with Estonian people, so far it has been go
 
 - Avoid small talk. If you want to start a conversation, look for a more meaningful topic. Instead of asking how they’re doing, it’s better to start with simple but meaningful stuff such as, “It’s very slippery on the road today, isn’t it? Is there any way to walk safer?”. Even though you can look up the answers to this question on Google, it’s a topic that they find enjoyable to explain and could lead to conversations.
 - Don’t talk about politics and religions because both things are personal matters. In fact, more than 70% of Estonians claimed to be non-religious people and stated that religions aren’t important in a census. If you want to avoid eating pork, for example, you can simply say “I don’t eat pork”. You don’t need to explain the religion-related stuff unless they really want to know.
-- Learn the Estonian language. Even though a lot of Estonians speak good English, they’ll be really happy if they meet immigrants that truly want to try communicating in the Estonian language. The HR person in my office told me that one of the reasons I landed the job, technical skills aside - is also because my knowledge of Estonian is quite a lot. In fact, I have tried to [learn the language](https://www.asepbagja.com/personal/how-to-learn-foreign-languages) on my own.
+- Learn the Estonian language. Even though a lot of Estonians speak good English, they’ll be really happy if they meet immigrants that truly want to try communicating in the Estonian language. The HR person in my office told me that one of the reasons I landed the job, technical skills aside - is also because my knowledge of Estonian is quite a lot. In fact, I have tried to [learn the language](how-to-learn-foreign-languages.md) on my own.
 
 For an introvert like me, Estonia feels like heaven. I don’t need to do tiring small talks to come across as friendly. I don’t even need to be passive-aggressive when I want to give my criticisms to another person, all I need to do is to give constructive criticism in a direct and clear manner.

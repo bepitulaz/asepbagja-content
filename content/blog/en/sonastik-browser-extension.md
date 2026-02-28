@@ -1,12 +1,9 @@
 ---
 title: "Introducing Sõnastik: The Effortless Way to Learn Estonian Language with a Browser Extension"
 date: 2023-06-29
-images:
-- "/blog-img/Screenshot-Sonastik.jpg"
 categories:
 - Programming
 summary: "Simplify Estonian language learning with Sõnastik, the browser extension that provides in-depth definitions, examples, and word forms from sonaveeb.ee."
-featured: false
 ---
 
 Hello, language learners! Today, I'd like to share my story about learning the Estonian language and how it inspired me to develop a practical browser extension called Sõnastik. Whether you're venturing into the world of Estonian or simply keen on broadening your linguistic horizons, this article is worth your attention.
@@ -19,12 +16,8 @@ However, there was one inconvenience that hindered my progress. Whenever I found
 
 Driven to streamline my learning process, I embarked on a project to create a browser extension that seamlessly integrated Sonaveeb's wealth of knowledge into my browsing experience. Thus, [Sõnastik](https://www.sonastik.ee) was born.
 
-<div class="text-center">
-<figure class="figure">
-<img src="/blog-img/Screenshot-Sonastik.jpg" class="figure-img img-fluid" alt="The screenshot of Sõnastik" />
-<figcaption class="figure-caption text-center">The screenshot of Sõnastik</figcaption>
-</figure>
-</div>
+![The screenshot of Sõnastik](../../../public/blog-img/Screenshot-Sonastik.jpg)
+*The screenshot of Sõnastik*
 
 With the Sõnastik browser extension, learning Estonian has become a breeze. All I need to do is select the word I want to explore further, right-click, and choose "Explain..." from the menu. Instantly, a neat pop-up appears, displaying all the relevant information from Sonaveeb directly above the selected word. It's like having a language assistant at my fingertips, allowing me to stay immersed in the article or post while gaining a comprehensive understanding of each word.
 

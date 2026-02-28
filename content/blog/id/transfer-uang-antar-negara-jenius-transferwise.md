@@ -1,18 +1,8 @@
 ---
 title: "Mengakali Biaya Transfer Uang Antar Negara Dengan Jenius dan Wise"
 date: 2019-09-23
-images:
-- "/blog-img/tw-step-3.png"
 categories:
 - Bisnis
-aliases:
-- /artikel/transfer-uang-antar-negara-jenius-transferwise
-- /artikel/transfer-uang-antar-negara-jenius-transferwise/
-- /posts/transfer-uang-antar-negara-jenius-transferwise
-- /id/artikel/transfer-uang-antar-negara-jenius-transferwise
-- /id/artikel/transfer-uang-antar-negara-jenius-transferwise/
-- /business/transfer-uang-antar-negara-jenius-transferwise
-- /business/transfer-uang-antar-negara-jenius-transferwise/
 summary: "TransferWise memiliki kemampuan untuk mengirim uang dengan biaya murah ke 59 negara termasuk Indonesia."
 ---
 
@@ -22,13 +12,11 @@ summary: "TransferWise memiliki kemampuan untuk mengirim uang dengan biaya murah
 
 *TransferWise telah berganti nama menjadi Wise. Walaupun begitu, layanannya tetap sama.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/peL7AvJbroU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 > Tulisan saya yang lain yang menarik untuk dibaca:
-> - <a href="https://www.asepbagja.com/id/pribadi/mencari-kerja-di-luar-negeri" target="_blank">Mencari Pekerjaan Sebagai Software Developer Di Luar Negeri</a>
-> - <a href="https://www.asepbagja.com/id/estonia/melihat-aurora-borealis-di-estonia" target="_blank">Melihat dan memotret Aurora Borealis di Estonia</a>
+> - [Mencari Pekerjaan Sebagai Software Developer Di Luar Negeri](mencari-kerja-di-luar-negeri.md)
+> - [Melihat dan memotret Aurora Borealis di Estonia](melihat-aurora-borealis-di-estonia.md)
 
-Internet membuat batas antar negara seakan tidak ada. Walaupun tinggal di Indonesia, kita bisa mencari peluang-peluang bisnis dan pasar-pasar baru di luar Indonesia untuk memasarkan produk. Seperti saya yang memanfaatkan [Estonia e-Residency](https://www.asepbagja.com/id/bisnis/apa-itu-estonia-e-residency) untuk membangun perusahaan di Eropa. Tentu saja memiliki bisnis di luar negeri artinya harus berurusan dengan mata uang asing. Untuk kasus saya, saya harus berurusan dengan mata uang Euro dan kadang-kadang US Dollar.
+Internet membuat batas antar negara seakan tidak ada. Walaupun tinggal di Indonesia, kita bisa mencari peluang-peluang bisnis dan pasar-pasar baru di luar Indonesia untuk memasarkan produk. Seperti saya yang memanfaatkan [Estonia e-Residency](apa-itu-estonia-e-residency.md) untuk membangun perusahaan di Eropa. Tentu saja memiliki bisnis di luar negeri artinya harus berurusan dengan mata uang asing. Untuk kasus saya, saya harus berurusan dengan mata uang Euro dan kadang-kadang US Dollar.
 
 Situasi saya saat ini:
 
@@ -61,7 +49,7 @@ Bagaimana TransferWise mengakali masalah biaya ini? Prinsipnya adalah mereka mem
 
 Anggap lah saya mengirimkan 100€. Maka susunannya kira-kira akan seperti ini.
 
-![Sistem Wise](/blog-img/sistem-transferwise.jpg)
+![Sistem Wise](../../../public/blog-img/sistem-transferwise.jpg)
 
 Sampai sini semoga jelas ya, mengapa TransferWise bisa sangat murah dan cepat hanya dalam hitungan menit untuk mengirim dari Estonia ke Indonesia.
 
@@ -75,15 +63,15 @@ Tetapi...*drum roll*
 
 Dengan mengkombinasikan Jenius dengan TransferWise kita bisa transfer ke luar negeri dengan biaya super rendah tanpa harus mengantre ke bank. Di gambar ini lah rahasianya. Ternyata kita bisa mendepositkan mata uang Euro dengan menggunakan kartu debit Visa/Mastercard. Kartu debit Jenius menggunakan Visa.
 
-![Debit Card](/blog-img/tw-step-2.png)
+![Debit Card](../../../public/blog-img/tw-step-2.png)
 
 Kamu bisa lihat di gambar di atas, untuk mengirim 41€ dari Indonesia biayanya HANYA 0,14€. Jauh sekali dibandingkan *wire transfer* secara tradisional yang bisa menghabiskan Rp300.000-Rp400.000. Jadi skema pengirimannya akan seperti ini kira-kira.
 
-![Sistem Jenius](/blog-img/sistem-jenius.jpg)
+![Sistem Jenius](../../../public/blog-img/sistem-jenius.jpg)
 
 Oh, iya, karena kartu debit Jenius ini menggunakan mata uang Rupiah, jadi TransferWise memberikan biaya tambahan untuk melakukan konversi dari Rupiah ke Euro. Biayanya tetap saja murah 1,23€. Jadi total biaya transfer untuk 41€ adalah 1,37€. Sangat jauh bukan dibanding transfer bank tradisional.
 
-![Biaya tambahan](/blog-img/tw-step-3.png)
+![Biaya tambahan](../../../public/blog-img/tw-step-3.png)
 
 ### Kesimpulan
 
