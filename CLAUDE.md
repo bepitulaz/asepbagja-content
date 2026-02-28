@@ -42,6 +42,8 @@ Uses markdown headers (`###`) to break into 3-5 sections. Descriptive, benefit-f
 - English: technical jargon used comfortably (MVP, Docker, MIDI); briefly defines when needed
 - Indonesian: uses English tech terms freely when no equivalent exists (hybrid bike, e-Residency, offline)
 - No code-switching anxiety in either language
+- Use simple vocabulary. English is not the author's native language. Avoid fancy or literary words.
+- Never use emdashes (—). Use commas, periods, or rephrase the sentence instead.
 
 ## Unique Quirks
 1. Parenthetical asides for humor or tangents: "(LOL teenager :P)", "(LOL)"
