@@ -12,7 +12,7 @@ I was watching the final round judging and winner announcement live on the Claud
 
 Let me give you some context on the scale. Over 13,000 people applied to this hackathon. Anthropic selected 500 participants and gave each of us $500 in API credits to build something with Claude Opus 4.6. Out of those 500, 277 actually submitted projects, competing for a total prize pool of $100,000.
 
-What struck me most wasn't my own win. It was the diversity of winners. The first place ($25,000) went to a lawyer. Third place went to a cardiologist. One of the "Keep Thinking" award winners was a road engineer. These weren't the usual suspects from Silicon Valley startups. The hackathon genuinely rewarded creative thinking from people who brought their own domain expertise to the table.
+What struck me most wasn't my own win. It was the diversity of winners. The first place went to a lawyer. Third place went to a cardiologist. One of the "Keep Thinking" award winners was a road engineer. These weren't the usual suspects from Silicon Valley startups. The hackathon genuinely rewarded creative thinking from people who brought their own domain expertise to the table.
 
 For me, that domain expertise was the intersection of two things I've been obsessed with for years: code and music. If you've been reading my blog, you know I've built [a voltage sequencer for my Eurorack system](making-sequencer-esp32.md), [experimented with programmable music](geekcamp-jakarta-2015-programmable-music.md), and spent way too many hours with my [Korg Kross 2 workstation](why-i-use-keyboard-workstation.md). Conductr came from all of that.
 
