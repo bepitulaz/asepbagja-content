@@ -4,6 +4,7 @@ Personal blog by [Asep Bagja Priandana](content/about/en.md) — programmer and 
 
 ## English Articles
 
+- [I Won Anthropic's Hackathon by Building a Band That Doesn't Wait for AI](content/blog/en/winning-anthropic-hackathon-conductr.md) — 2026-02-28
 - [I Taught Myself Hardware Product Engineering](content/blog/en/taught-myself-product-engineering.md) — 2024-07-22
 - [Building A Voltage Sequencer For Eurorack With ESP32](content/blog/en/making-sequencer-esp32.md) — 2024-04-28
 - [I Start Deep Dive Into Eurorack Modular Synthesizer And Learn Audio Signal Processing](content/blog/en/starting-modular-synth-journey.md) — 2024-03-31
@@ -51,6 +52,7 @@ Personal blog by [Asep Bagja Priandana](content/about/en.md) — programmer and 
 
 ## Indonesian Articles
 
+- [Menang Hackathon Anthropic dengan Membangun Band yang Tidak Menunggu AI](content/blog/id/menang-hackathon-anthropic-conductr.md) — 2026-02-28
 - [Pengalaman Terkena PHK di Estonia](content/blog/id/pengalaman-phk-estonia.md) — 2025-10-04
 - [Resensi Buku: Just Keep Buying](content/blog/id/resensi-buku-just-keep-buying.md) — 2024-02-04
 - [Melihat dan memotret Aurora Borealis di Estonia](content/blog/id/melihat-aurora-borealis-di-estonia.md) — 2023-10-04
