@@ -4,6 +4,7 @@ Personal blog by [Asep Bagja Priandana](content/about/en.md) — programmer and 
 
 ## English Articles
 
+- [Why I Choose Elixir and BEAM as My Main Stack as a Solo Founder](content/blog/en/why-i-choose-elixir-beam-solo-founder.md) — 2026-03-04
 - [I Won Anthropic's Hackathon by Building a Band That Doesn't Wait for AI](content/blog/en/winning-anthropic-hackathon-conductr.md) — 2026-02-28
 - [I Taught Myself Hardware Product Engineering](content/blog/en/taught-myself-product-engineering.md) — 2024-07-22
 - [Building A Voltage Sequencer For Eurorack With ESP32](content/blog/en/making-sequencer-esp32.md) — 2024-04-28
